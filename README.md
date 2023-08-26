@@ -1,2 +1,2 @@
 # text2lesson-docs
-Documents for the text2lesson application
+This repository just holds documentation for the [Text2Lesson](https://henspace.com/text2lesson/) main application.
