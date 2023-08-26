@@ -1,5 +1,5 @@
 ---
-title: 'About Text2Lesson'
+title: "About Text2Lesson"
 ---
 
 _Text2Lesson_ is an application that has been designed to take plain text files
@@ -51,4 +51,4 @@ If you've come here from _Text2Lesson's_ options, you probably know where to
 find it.
 
 If you've stumbled across this information while browsing and want to give it a
-go, [launch Text2Lesson](../../launch.html)
+go, [launch Text2Lesson](https://henspace.com/text2lesson/index.html)
