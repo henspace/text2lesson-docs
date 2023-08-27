@@ -22,7 +22,7 @@ Want to try it out?
 
 Just curious?
 
-- [Read all about it](./about.md).
+- [What's it for?](./whats-it-for.md).
 - [Check out the privacy](./privacy.md)
 - [View the contents](./contents.md)
 
