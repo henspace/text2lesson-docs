@@ -1,5 +1,8 @@
 # Playing lessons
 
+When we say _playing_ a lesson, we mean following the lesson material and having
+a go at any quizzes it might contain.
+
 Lessons can come from multiple places. These are the three main places you will
 find lessons:
 
