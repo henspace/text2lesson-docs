@@ -1,8 +1,8 @@
 title: Text2Lesson
-description:
-  Text2Lesson — the fastest way to create your lessons from plain old text.
+description: Text2Lesson — the fastest way to create your lessons from plain old text.
+logo: /assets/images/logo.png
 show_downloads: false
 google_analytics:
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
 github:
   is_project_page: false
