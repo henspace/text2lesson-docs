@@ -1,6 +1,4 @@
----
-title: Writing lessons
----
+# Writing lessons
 
 Lessons are written in plain text and comprise a number of problems. Refer to
 the [Lesson format](./lesson-format.md) guidance for details.
@@ -41,4 +39,4 @@ You have three ways to create your own lessons.
 1. Select `Close editor`.
 1. When you are returned to the lesson summary, select `Play lesson`.
 
-[Home](./about.md)
+[Home](./index.md) | [Contents](./contents.md) | [About](./about.md) | [Privacy](./privacy.md)

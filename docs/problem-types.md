@@ -1,6 +1,4 @@
----
-title: Problem types
----
+# Problem types
 
 _Text2Lesson_ supports five problem types. The type is automatically derived
 from the way the problem is defined:
@@ -122,4 +120,4 @@ with more than one word, only the first word will be used.
 Note that the possible answers are automatically shuffled when the problem is
 presented.
 
-[Home](./about.md)
+[Home](./index.md) | [Contents](./contents.md) | [About](./about.md) | [Privacy](./privacy.md)

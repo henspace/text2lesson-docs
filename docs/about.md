@@ -1,6 +1,4 @@
----
-title: "About Text2Lesson"
----
+# About Text2Lesson
 
 _Text2Lesson_ is an application that has been designed to take plain text files
 and convert them into lessons. And when we talk about lessons, we also mean
@@ -37,14 +35,6 @@ There are three main uses of the program:
 If you want to try out the application, your first step is probably to check out
 [Playing lessons](./playing-lessons.md).
 
-- [Playing lessons](./playing-lessons.md)
-- [Writing lessons](./writing-lessons.md)
-  - [Lesson format](./lesson-format.md)
-  - [Problem types](./problem-types.md)
-  - [Metadata](./metadata.md)
-  - [Markdown light](./markdown-light.md)
-- [Privacy](./privacy.md)
-
 # So, where is Text2Lesson?
 
 If you've come here from _Text2Lesson's_ options, you probably know where to
@@ -52,3 +42,11 @@ find it.
 
 If you've stumbled across this information while browsing and want to give it a
 go, [launch Text2Lesson](https://henspace.com/text2lesson/index.html)
+
+# Who's behing Text2Lesson?
+
+_Text2Lesson_ is an open source project written and created by
+[Henspace](https://github.com/henspace) and hosted on [GitHub](https://github.com).
+The source code is available in the [text2lesson repository](https://github.com/henspace/text2lesson).
+
+[Home](./index.md) | [Contents](./contents.md) | [Privacy](./privacy.md)

@@ -1,6 +1,4 @@
----
-title: Playing lessons
----
+# Playing lessons
 
 Lessons can come from multiple places. These are the three main places you will
 find lessons:
@@ -72,4 +70,4 @@ An _autorun_ file is an `html` file that has been exported from _Text2Lesson_
 to make it easier to play lessons. To play this lesson, simply open it in your
 browser. The lesson will start playing automatically.
 
-[Home](./about.md)
+[Home](./index.md) | [Contents](./contents.md) | [About](./about.md) | [Privacy](./privacy.md)

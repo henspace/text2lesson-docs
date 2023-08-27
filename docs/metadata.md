@@ -1,6 +1,4 @@
----
-title: Metadata
----
+# Metadata
 
 Metadata is additional information about the lesson that can be included later
 in your problems. This allows you to give some text a label, and then repeat
@@ -86,4 +84,4 @@ Notice how `meta:MyName` has been replaced by the metadata's value of `John`.
 Metadata can only be used for simple replacements. You cannot include any
 [Markdown](./markdown-light.md) formatting in the metadata values.
 
-[Home](./about.md)
+[Home](./index.md) | [Contents](./contents.md) | [About](./about.md) | [Privacy](./privacy.md)

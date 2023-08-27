@@ -1,6 +1,4 @@
----
-title: Privacy policy
----
+# Privacy policy
 
 _Text2Lesson_ has been designed to run on your device without the need to
 create user accounts or provide any personal data. This document describes what
@@ -62,4 +60,4 @@ support these features, so some options may not be availbable to you.
   about GitHub's security practices, refer to the
   [GitHub Privacy Statement](https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement).
 
-[Home](./about.md)
+[Home](./index.md) | [Contents](./contents.md) | [About](./about.md)

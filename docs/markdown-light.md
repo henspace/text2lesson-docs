@@ -1,6 +1,4 @@
----
-title: "Markdown light"
----
+# Markdown light
 
 [Markdown](https://daringfireball.net/projects/markdown/) is a plain text
 language that allows you add formatting to text, such as showing words in bold
@@ -34,4 +32,4 @@ summarised below:
 - `&lt;https://henspace.com>` also creates an automatic link.
 - `&lt;https://henspace.com&gt;` does not create an automatic link.
 
-[Home](about.md)
+[Home](./index.md) | [Contents](./contents.md) | [About](./about.md) | [Privacy](./privacy.md)

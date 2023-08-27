@@ -1,6 +1,4 @@
----
-title: "Lesson format"
----
+# Lesson format
 
 All lessons are created using plain text files.
 
@@ -188,4 +186,4 @@ own. That is because of the different problem types supported by the
 application. Perhaps now is the time to check out
 [Problem Types](./problem-types/md)
 
-[Home](./about.md)
+[Home](./index.md) | [Contents](./contents.md) | [About](./about.md) | [Privacy](./privacy.md)
