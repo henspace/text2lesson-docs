@@ -9,7 +9,7 @@ If you've come here from _Text2Lesson's_ options, you probably know where to
 find it.
 
 If you've stumbled across this information while browsing and want to give it a
-go, [launch Text2Lesson](https://henspace.com/text2lesson/index.html)
+go, [launch Text2Lesson](https://henspace.github.io/text2lesson/index.html)
 
 # Who's behind Text2Lesson?
 

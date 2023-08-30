@@ -16,7 +16,7 @@ do anything else — simple.
 
 Want to try it out?
 
-- [Launch Text2Lesson](https://henspace.com/text2lesson/index.html).
+- [Launch Text2Lesson](https://henspace.github.io/text2lesson/index.html).
 
 # Want to find out more?
 
