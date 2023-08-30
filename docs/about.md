@@ -17,4 +17,9 @@ _Text2Lesson_ is an open source project written and created by
 [Henspace](https://github.com/henspace) and hosted on [GitHub](https://github.com).
 The source code is available in the [text2lesson repository](https://github.com/henspace/text2lesson).
 
+# Acknowledgements
+
+The sounds in the application were generated using the fantastic [Chiptone](https://sfbgames.itch.io/chiptone)
+program. Big thanks to SFBGames for making that tool available.
+
 [Home](./index.md) | [Contents](./contents.md) | [Privacy](./privacy.md)
