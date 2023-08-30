@@ -4,7 +4,7 @@ Check out the following topics to learn more about _Text2Lesson_. If you do deci
 to take _Text2Lesson_ for a spin, you'll also find a lesson in the main library
 that will take you through the process of creating a lesson and quiz.
 
-- [What's it for?](<./(whats-it-for.md)>)
+- [What's it for?](./whats-it-for.md)
 - [Playing lessons](./playing-lessons.md)
 - [Writing lessons](./writing-lessons.md)
   - [Lesson format](./lesson-format.md)
