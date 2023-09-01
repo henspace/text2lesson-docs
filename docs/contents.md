@@ -9,7 +9,7 @@ to take _Text2Lesson_ for a spin, you'll also find a lesson in the main library
 that will take you through the process of creating a lesson and quiz.
 
 - [What's it for?](whats-it-for.md)
-- The Learning trail
+- [The Learning trail](learning-trail/learning-trail.md)
   - [Examples](learning-trail/examples.md)
   - [The libraries](learning-trail/the-libraries.md)
   - [Example lessons](learning-trail/examples.md).

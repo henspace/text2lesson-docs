@@ -28,16 +28,9 @@ Just curious? Check out [What's it for?](whats-it-for.md)
 
 # Want to get started? The learning trail.
 
-If you want to get started, following the learning trail below, which should get
-you well on the way to creating your first lessons. By the way, we call launching
-a particular lesson and answering any quizzes it contains, _playing_ a lesson.
-
-## The learning trail
-
-1. Learn about [the libraries](learning-trail/the-libraries.md)
-1. Look at some [example lessons](learning-trail/examples.md).
-1. Look at [changing an example lesson](learning-trail/changing-an-example-lesson.md)
-1. Learn how to create [slideshows](learning-trail/slideshows.md)
-1. Finally, look at [missing word and order problems](learning-trail/missing-word-and-order.md)
+If you want to get started, follow the [The Learning trail](learning-trail/learning-trail.md),
+which should get you well on the way to creating your first lessons.
+By the way, we call launching a particular lesson and answering any quizzes it
+contains, _playing_ a lesson.
 
 [Contents](./contents.md) | [About](./about.md) | [Privacy](./privacy.md)
