@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Privacy policy
 
 _Text2Lesson_ has been designed to run on your device without the need to

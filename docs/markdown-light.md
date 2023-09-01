@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Markdown light
 
 [Markdown](https://daringfireball.net/projects/markdown/) is a plain text
@@ -17,6 +21,7 @@ The following limitations apply:
   '<br>', all HTML is escaped. Entities such as `&copy;` and `<br>` will not be
   escaped.
 - Reference links: these are not supported.
+- Links: links must start with `http` or `https`. Other protocols are not supported.
 - Automatic links: automatic links are supported but with caveat below.
 
 ## Unexpected automatic link behaviour

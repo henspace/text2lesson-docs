@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Playing lessons
 
 When we say _playing_ a lesson, we mean following the lesson material and having

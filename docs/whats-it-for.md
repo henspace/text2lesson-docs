@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # What's it for?
 
 So what's the point of _Text2Lesson_ then? There are loads of great online quiz

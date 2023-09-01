@@ -6,3 +6,5 @@ google_analytics:
 theme: jekyll-theme-minimal
 github:
   is_project_page: false
+plugins:
+  - jekyll-relative-links

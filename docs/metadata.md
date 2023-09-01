@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Metadata
 
 Metadata is additional information about the lesson that can be included later

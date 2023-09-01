@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Writing lessons
 
 Lessons are written in plain text and comprise a number of problems. Refer to

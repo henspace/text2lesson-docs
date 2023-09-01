@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Lesson format
 
 All lessons are created using plain text files.
@@ -15,10 +19,10 @@ The _metadata_ is an advanced feature, so we'll ignore that for the moment.
 # The basic problem elements
 
 The different problem _elements_ are identified by a lines which start with an
-_element&nbsp;identifier_. Any other characters following the identifier form
+_indicator_. Any other characters following the identifier form
 part of the data for the _element_.
 
-The _element&nbsp;identifiers_ are as follows:
+The _indicators_ are as follows:
 
 - **i**: Introduction. This is information displayed at the beginning of the
   problem.
@@ -42,7 +46,7 @@ x Prague
 & Paris is the capital of France.
 ```
 
-Text2Lesson allows you to enclose the _element&nbsp;identifier_ in brackets, so
+Text2Lesson allows you to enclose the _indicator_ in brackets, so
 the following would also work.
 
 ```
@@ -57,10 +61,10 @@ the following would also work.
 ```
 
 You don't need to use the brackets, but you might find it clearer for the
-introduction _element&nbsp;identifier_. It's up to you.
+introduction _indicator_. It's up to you.
 
 To add more flexibility, you can repeat the brackets and
-_element&nbsp;identifier_ as many times as you like. So this is also valid.
+_indicator_ as many times as you like. So this is also valid.
 
 ```
 (i) I am going to test your knowledge of European cities.
@@ -104,7 +108,7 @@ know about to get started. If you're interested and want to know more, check out
 # Multiple lines
 
 In the examples above, the text for each element has been included on the same
-line as the _element&nbsp;identifier_, but this is not necessary. You can
+line as the _indicator_, but this is not necessary. You can
 include multiple lines for each element and they will automatically be joined
 together. So you could write:
 
@@ -178,7 +182,7 @@ x 1
 x 4
 ```
 
-The separator, which uses the underscore _element&nbsp;identifier_, will tell
+The separator, which uses the underscore _indicator_, will tell
 **Text2Lesson** to create two problems.
 
 You might be wondering why it might be important to have an introduction on its

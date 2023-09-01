@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # About Text2Lesson
 
 _Text2Lesson_ is an application that has been designed to take plain text files

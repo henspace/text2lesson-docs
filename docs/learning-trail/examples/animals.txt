@@ -1,12 +1,12 @@
 (i) This is a short quiz about animals. Have a go and see how much you know.
-? Which of these animals is only found in South America
+? Which of these animals is only found in South America?
 = White headed capuchin monkey
 x Vervet monkey
 x Samango monkey
 x Black and white colobus monkey
 
 (i) Let's move on to birds.
-? The Artic Tern has the longest migration of any animal, but how far is it's annual round trip?
+? The Artic Tern has the longest migration of any animal, but how far is its annual round trip?
 = 90,000 km
 x 50,000 km
 x 20,000 km
@@ -22,7 +22,7 @@ x 10 g (0.35 oz)
 
 (i) The final question. 
 ? The Greenland shark is one of the longest living animals on Earth. Scientists
-discover one which was very old but still living; but how old was it?
+discovered one which was very old but still living; but how old was it?
 = 400 years old
 x 300 years old
 x 250 years old
