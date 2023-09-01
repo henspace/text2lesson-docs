@@ -23,4 +23,8 @@ that will take you through the process of creating a lesson and quiz.
   - [Metadata](metadata.md)
   - [Markdown light](markdown-light.md)
 
+# Where is Text2Lesson
+
+- [Launch Text2Lesson](https://henspace.github.io/text2lesson/index.html).
+
 [Home](index.md) | [About](about.md) | [Privacy](privacy.md)
