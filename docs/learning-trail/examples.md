@@ -8,7 +8,7 @@ The easiest way to learn _Text2Lesson_ lesson is to look at some examples. All o
 these are also included in the _Example quizzes_ book in _Text2Lesson_'s remote
 library.
 
-Each quiz introduces a new feature a new feature, so take a look at each one. Play
+Each quiz introduces a new feature, so take a look at each one. Play
 the lesson in _Text2Lesson_ first, and then take a look at the text that was used
 to create the lesson.
 
@@ -17,7 +17,7 @@ to create the lesson.
 This is the simplest lesson. All it includes is a set of multiple choice questions
 with a single answer to each.
 
-1. Play the lesson in the _Text2Lesson_.
+1. Play the lesson in _Text2Lesson_.
 1. Take a look at the [Capital cities of Europe](examples/capital_cities_of_Europe.txt) text.
 
 Here is a part of that lesson:
@@ -43,7 +43,7 @@ Here is another simple lesson. Again, it just comprises a list of questions.
 The only difference is that the file has more than one answer starting with an
 equals sign. That's because there's more than one possible right anwser.
 
-1. Play the lesson in the _Text2Lesson_.
+1. Play the lesson in _Text2Lesson_.
 1. Take a look at the [Famous authors](examples/famous_authors.txt) text.
 
 Again, here is part of that lesson.
@@ -63,12 +63,12 @@ question that follows. This is done by adding a introduction item. The introduct
 item begins with the character **i**. You can put this in brackets to make it clearer
 like this **(i)**. They'll both work.
 
-In this lesson, each question has some introductory.
+In this lesson, each question has some introductory text.
 
-1. Play the lesson in the _Text2Lesson_.
+1. Play the lesson in _Text2Lesson_.
 1. Take a look at the [Animals](examples/animals.txt) text.
 
-And here is an extract showing the introduction:
+Here is an extract showing the introduction:
 
 ```
 (i) This is a short quiz about animals. Have a go and see how much you know.
