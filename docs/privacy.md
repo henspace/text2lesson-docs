@@ -38,7 +38,7 @@ faster on subsequent uses and reduces data transmission.
 
 Your scores for lessons are never stored on your device or transmitted to
 the server unless you explicitly choose to share the results. If you do share
-the results, only the lesson identification and scores is shared. No
+the results, only the lesson identification and scores are shared. No
 personal information is included in the shared results.
 
 What happens with the results data if you choose to share it will depend on the
