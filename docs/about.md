@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: main
 ---
 
 # About Text2Lesson
@@ -25,5 +25,3 @@ The source code is available in the [text2lesson repository](https://github.com/
 
 The sounds in the application were generated using the fantastic [Chiptone](https://sfbgames.itch.io/chiptone)
 program. Big thanks to SFBGames for making that tool available.
-
-[Home](./index.md) | [Contents](./contents.md) | [Privacy](./privacy.md)

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: main
 ---
 
 # The learning trail
@@ -15,5 +15,3 @@ _Text2Lesson_.
 1. Finally, look at [missing word and order problems](missing-word-and-order.md)
 
 Have fun.
-
-[Home](../index.md) | [Contents](../contents.md) | [About](../about.md) | [Privacy](../privacy.md)

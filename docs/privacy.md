@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: main
 ---
 
 # Privacy policy
@@ -63,5 +63,3 @@ support these features, so some options may not be availbable to you.
   logs and stores your IP address for security purposes. For more information
   about GitHub's security practices, refer to the
   [GitHub Privacy Statement](https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement).
-
-[Home](./index.md) | [Contents](./contents.md) | [About](./about.md)

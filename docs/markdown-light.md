@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: main
 ---
 
 # Markdown light
@@ -36,5 +36,3 @@ summarised below:
 - `<https://henspace.com>` creates an automatic link.
 - `&lt;https://henspace.com>` also creates an automatic link.
 - `&lt;https://henspace.com&gt;` does not create an automatic link.
-
-[Home](./index.md) | [Contents](./contents.md) | [About](./about.md) | [Privacy](./privacy.md)

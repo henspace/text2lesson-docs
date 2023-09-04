@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: main
 ---
 
 # Changing an example lesson
@@ -34,5 +34,3 @@ going to do is copy the text from an example quiz and play with it.
 # The learning trail
 
 The next step is to look at some [slideshows](slideshows.md).
-
-[Home](../index.md) | [Contents](../contents.md) | [About](../about.md) | [Privacy](../privacy.md)

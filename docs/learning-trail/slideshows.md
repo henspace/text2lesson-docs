@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: main
 ---
 
 # Slideshows
@@ -76,5 +76,3 @@ x Ralph Waldo Emerson
 # The learning trail
 
 The next step is to look at the last two types of problem: [missing word and order problems](missing-word-and-order.md).
-
-[Home](../index.md) | [Contents](../contents.md) | [About](../about.md) | [Privacy](../privacy.md)

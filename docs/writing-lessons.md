@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: main
 ---
 
 # Writing lessons
@@ -42,5 +42,3 @@ You have three ways to create your own lessons.
 1. Select `Import`.
 1. Select `Close editor`.
 1. When you are returned to the lesson summary, select `Play lesson`.
-
-[Home](./index.md) | [Contents](./contents.md) | [About](./about.md) | [Privacy](./privacy.md)

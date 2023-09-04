@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: main
 ---
 
 # Metadata
@@ -87,5 +87,3 @@ Notice how `meta:MyName` has been replaced by the metadata's value of `John`.
 
 Metadata can only be used for simple replacements. You cannot include any
 [Markdown](./markdown-light.md) formatting in the metadata values.
-
-[Home](./index.md) | [Contents](./contents.md) | [About](./about.md) | [Privacy](./privacy.md)

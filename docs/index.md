@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: main
 ---
 
 # Welcome to Text2Lesson
@@ -32,5 +32,3 @@ If you want to get started, follow the [The Learning trail](learning-trail/learn
 which should get you well on the way to creating your first lessons.
 By the way, we call launching a particular lesson and answering any quizzes it
 contains, _playing_ a lesson.
-
-[Contents](./contents.md) | [About](./about.md) | [Privacy](./privacy.md)

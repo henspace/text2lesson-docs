@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: main
 ---
 
 # Online Help
@@ -20,5 +20,3 @@ There's lots of help here, so check out the [contents](./contents.md) for more
 assistance.
 
 If you're just starting out, why not start with the [Learning trail](learning-trail/learning-trail.md)?
-
-[Home](./index.md) | [Contents](./contents.md) | [About](./about.md) | [Privacy](./privacy.md)

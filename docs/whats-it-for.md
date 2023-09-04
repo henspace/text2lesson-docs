@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: main
 ---
 
 # What's it for?
@@ -43,5 +43,3 @@ These are probably the three main uses of _Text2Lesson_:
 > > One reason might be to help you revise for a test. You can create a personal
 > > lesson to help drill a topic into your memory. You can also include
 > > questions to test your understanding as an alternative to using flash cards.
-
-[Home](./index.md) | [Contents](./contents.md) | [About](./about.md) | [Privacy](./privacy.md)

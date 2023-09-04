@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: main
 ---
 
 # Example lessons
@@ -83,5 +83,3 @@ x Black and white colobus monkey
 
 The next step in the learning trail is to have a look at
 [changing an example lesson](changing-an-example-lesson.md).
-
-[Home](../index.md) | [Contents](../contents.md) | [About](../about.md) | [Privacy](../privacy.md)

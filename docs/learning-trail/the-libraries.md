@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: main
 ---
 
 # The libraries
@@ -52,5 +52,3 @@ They just contain individual lessons.
 # The learning trail
 
 The next step is to look at some [Example lessons](examples.md).
-
-[Home](../index.md) | [Contents](../contents.md) | [About](../about.md) | [Privacy](../privacy.md)

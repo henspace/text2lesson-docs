@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: main
 ---
 
 # Missing word and order problems
@@ -71,5 +71,3 @@ of the learning trail.
 
 Take a look at the [Contents](../contents.md) for more advice about getting the
 most out of _Text2Lesson_.
-
-[Home](../index.md) | [Contents](../contents.md) | [About](../about.md) | [Privacy](../privacy.md)
