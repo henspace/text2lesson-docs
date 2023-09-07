@@ -45,14 +45,14 @@ Cut and paste that lesson into one of your lesson slots and see what it does.
 
 # Order problem
 
-If the question just has three dots at the end, it creates a ordering problem.
+If the question just has `123` at the end, it creates a ordering problem.
 
 Each of the right answers are put in a row, and they have to be selected in the
 same order they were written in the lesson. Any wrong answers are added to the
 possible options, to make the question harder. Here is an example:
 
 ```
-? Put the prime numbers in ascending order. ...
+? Put the prime numbers in ascending order. 123
 = 19
 = 23
 = 29
@@ -63,6 +63,18 @@ x 27
 
 This will make more sense when you try it, so copy the text into a lesson, and
 see how it plays.
+
+By default, the options are laid out in a row. Sometimes you might want them
+laid out in a column. You can define the orientation by following `123` with the
+`>` character followed by the orientation you want.
+
+- Arrange in a row:
+  - 123
+  - 123>row
+  - 123>line
+- Arrange in a column:
+  - 123>col
+  - 123>column
 
 # The learning trail
 
