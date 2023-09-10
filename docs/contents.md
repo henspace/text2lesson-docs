@@ -21,7 +21,7 @@ that will take you through the process of creating a lesson and quiz.
   - [Playing lessons](playing-and-sharing/playing-lessons.md)
   - [Sharing lessons](playing-and-sharing/sharing-lessons.md)
 - Writing lessons
-  - [Writing lessons](writing-lessons.md)
+  - [Writing lessons](writing/writing-lessons.md)
   - [Lesson format](writing/lesson-format.md)
     - [Formatting text](formatting/format-text.md)
     - [Adding maths](formatting/add-maths.md)

@@ -48,7 +48,7 @@ Follow the steps below to play a predefined lesson:
 # Playing a local library lesson
 
 The local library is used to store lessons you create yourself on your device.
-See [Writing lessons](./writing-lessons) for help about writing lessons.
+See [Writing lessons](../writing/writing-lessons.md) for help about writing lessons.
 Follow the steps below to play a lesson you've created yourself:
 
 1. From the home page, select `Open local library`.

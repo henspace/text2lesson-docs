@@ -78,8 +78,5 @@ laid out in a column. You can define the orientation by following `123` with the
 
 # The learning trail
 
-You've now seen how to create all the different problem types. That's the end
-of the learning trail.
-
-Take a look at the [Contents](../contents.md) for more advice about getting the
-most out of _Text2Lesson_.
+You've now seen how to create all the different problem types. Let's look at how
+we can craft a problem using those five different types in [One problem, five ways](./one-problem-five-ways.md).
