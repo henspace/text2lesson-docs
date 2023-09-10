@@ -4,7 +4,7 @@ layout: main
 
 # Slideshows
 
-Prevously we looked at adding a introduction to a lesson by using the **(i)** indicator.
+Previously we looked at adding a introduction to a lesson by using the **(i)** indicator.
 
 Here is an example lesson with an introduction.
 

@@ -16,12 +16,19 @@ that will take you through the process of creating a lesson and quiz.
   - [Changing an example lesson](learning-trail/changing-an-example-lesson.md)
   - [Slideshows](learning-trail/slideshows.md)
   - [Missing word and order problems](learning-trail/missing-word-and-order.md)
-- [Playing lessons](playing-lessons.md)
-- [Writing lessons](writing-lessons.md)
-  - [Lesson format](lesson-format.md)
-  - [Problem types](problem-types.md)
-  - [Metadata](metadata.md)
-  - [Markdown light](markdown-light.md)
+  - [One problem five ways](learning-trail/one-problem-five-ways.md)
+- Playing and sharing lessons
+  - [Playing lessons](playing-and-sharing/playing-lessons.md)
+  - [Sharing lessons](playing-and-sharing/sharing-lessons.md)
+- Writing lessons
+  - [Writing lessons](writing-lessons.md)
+  - [Lesson format](writing/lesson-format.md)
+    - [Formatting text](formatting/format-text.md)
+    - [Adding maths](formatting/add-maths.md)
+    - [Adding images](formatting/add-images.md)
+  - [Markdown light](writing/markdown-light.md)
+  - [Metadata](writing/metadata.md)
+  - [Problem types](writing/problem-types.md)
 
 # Where is Text2Lesson
 

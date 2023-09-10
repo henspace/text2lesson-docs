@@ -188,4 +188,4 @@ The separator, which uses the underscore _indicator_, will tell
 You might be wondering why it might be important to have an introduction on its
 own. That is because of the different problem types supported by the
 application. Perhaps now is the time to check out
-[Problem Types](./problem-types/md)
+[Problem Types](problem-types/md)

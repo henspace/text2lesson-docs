@@ -25,9 +25,8 @@ rules.
 1. If the problem only contains a introduction element, a
    [Slideshow problem](#slideshow-problem) is generated.
 1. If the question contains [Missing Words](#missing-words) a
-   [Fill Problem](#fill-problem) is generated.
-1. If the question contains just one missing word at the end and with no definition
-   of the missing word, an [Order problem](#order-problem) is generated.
+   [Missing word problem](#missing-word-problem) is generated.
+1. If the question contains _123_ at the end, an [Order problem](#order-problem) is generated.
 1. If the problem contains a question with just one right answer defined, a
    [Simple problem](#simple-problem) is generated.
 1. If the problem contains a question with more than one right answer defined,
@@ -70,13 +69,13 @@ than one answer. Here is an example
 = Zebra
 = Lion
 x Tiger
-x Kangeroo
+x Kangaroo
 ```
 
 Note that the possible answers are automatically shuffled when the problem is
 presented.
 
-## Fill problem
+## Missing word problem
 
 This is a special problem where the question is displayed with a number of
 missing words. Where the words have been removed, the user has to select the
@@ -101,12 +100,11 @@ presented.
 ## Order problem
 
 This is a special problem where the question is displayed followed by a number
-of missing words. For each missing word, the user has to select the correct word
-from a list of options.
+of drop-down lists.
 
-The options are generated from the right and wrong answer elements. The right
-answer for each missing word is taken from the order in which
-the right answers were defined. Here is an example question:
+The options the lists are generated from the right and wrong answer elements. The right
+answer for each drop-down list is taken from the order in which
+the right answers are defined. Here is an example question:
 
 ```
 (?)Put the even numbers in ascending order ...
@@ -118,8 +116,9 @@ x three
 x five
 ```
 
-Missing words can only be single words. If you create a wrong answer element
-with more than one word, only the first word will be used.
+In this case there will be three drop-down lists, each with six options to choose
+from. The correct answer for the first drop-down list is defined by the first
+right answer. The second is taken from the second, and so on.
 
-Note that the possible answers are automatically shuffled when the problem is
+Note that the options in the lists are automatically shuffled when the problem is
 presented.
