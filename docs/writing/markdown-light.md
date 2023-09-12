@@ -14,7 +14,7 @@ problems; however, not all features of Markdown are available.
 The following limitations apply:
 
 - Blockquotes: lazy blockquotes are not supported. Each line must be preceded by
-  the `>` character. In addtion, nested blockquotes are not supported.
+  the `>` character. In addition, nested blockquotes are not supported.
 - Lists: only simple lists are supported. Blockquotes, code blocks and other
   block elements cannot be included.
 - HTML: inline HTML is not supported. With the exception of HTML entities and

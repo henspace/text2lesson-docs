@@ -16,6 +16,10 @@ in _Text2Lesson_.
 1. Find the the **Use this file on the web** link. If you're on a mobile and the
    link isn't available, scroll to the bottom of the page and select **Desktop**.
 1. When you click on the link, a **Use this file on the web** dialog box will pop up.
+1. At the top right of the **Embed this file** field, you'll see an image size selector.
+   It is recommend that you don't select anything larger than 512px wide.
+1. Select the **HTML** option. The **BBCode** option can be used, but it requires a
+   bit more work which is described later.
 1. Copy all the text from the **Embed this file** field to the clipboard. The **HTML**
    option should be selected.
 1. Paste the text into your lesson file.
@@ -24,6 +28,21 @@ in _Text2Lesson_.
 1. An example is shown below:
 
 > `<a title="Martin Vorel, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Programming_code.jpg"><img width="512" alt="Programming code" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Programming_code.jpg/512px-Programming_code.jpg"></a>`
+
+## Using BBCode
+
+[Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page) allows you to use
+*BBCode** to define the image. *Text2Lesson* should be able to parse the **HTML\*\*
+format successfully. If you come across an image where HTML doesn't seem to be
+recognised correctly, you can try the *BBCode** instead. The only difference is that
+the **BBCode** has to be wrapped between `{bbcode}` marker in _Text2Lesson_. So
+to use the \*BBCode** text, just type `{bbcode}{bbcode}` in your lesson, and then
+paste the **BBCode** between the two tags.
+
+> `{bbcode}[url=https://commons.wikimedia.org/wiki/File:Elizabeth_of_York_from_Kings_and_Queens_of_England.jpg][img]https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Elizabeth_of_York_from_Kings_and_Queens_of_England.jpg/256px-Elizabeth_of_York_from_Kings_and_Queens_of_England.jpg[/img][/url]
+[url=https://commons.wikimedia.org/wiki/File:Elizabeth_of_York_from_Kings_and_Queens_of_England.jpg]Elizabeth of York from Kings and Queens of England[/url]
+National Portrait Gallery
+, Public domain, via Wikimedia Commons{bbcode}`
 
 ## Image alignment
 
@@ -36,6 +55,16 @@ the image to the left.
 > `<<a title="Martin Vorel, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Programming_code.jpg"><img width="512" alt="Programming code" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Programming_code.jpg/512px-Programming_code.jpg"></a>`
 
 Notice that it starts with `<<a` and not `<a`.
+
+You can use the same technique with **BBCode**. Just place the **<** before the first `[url` marker. Here is an
+example:
+
+> `{bbcode}<[url=https://commons.wikimedia.org/wiki/File:Elizabeth_of_York_from_Kings_and_Queens_of_England.jpg][img]https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Elizabeth_of_York_from_Kings_and_Queens_of_England.jpg/256px-Elizabeth_of_York_from_Kings_and_Queens_of_England.jpg[/img][/url]
+[url=https://commons.wikimedia.org/wiki/File:Elizabeth_of_York_from_Kings_and_Queens_of_England.jpg]Elizabeth of York from Kings and Queens of England[/url]
+National Portrait Gallery
+, Public domain, via Wikimedia Commons{bbcode}`
+
+Notice that it starts with `{bbcode}<[url` and not `{bbcode}[url`.
 
 # Using Wikimedia Commons for your own images.
 
