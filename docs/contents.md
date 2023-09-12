@@ -26,6 +26,7 @@ that will take you through the process of creating a lesson and quiz.
     - [Formatting text](formatting/format-text.md)
     - [Adding maths](formatting/add-maths.md)
     - [Adding images](formatting/add-images.md)
+    - [Using Wikimedia Commons](formatting/using-wikimedia-commons.md)
   - [Markdown light](writing/markdown-light.md)
   - [Metadata](writing/metadata.md)
   - [Problem types](writing/problem-types.md)
