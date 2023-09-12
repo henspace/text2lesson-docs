@@ -200,7 +200,3 @@ becomes
 # Maths or math if you prefer
 
 _Text2Lesson_ includes some formatting tools to make maths equations simpler. This is a complex topic, so check [Adding maths](add-maths.md) for details.
-
-# Videos
-
-Videos can be embedded in the lesson. See [Adding videos](add-videos.md) for details.
