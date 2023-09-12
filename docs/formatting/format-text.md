@@ -5,7 +5,7 @@ layout: main
 # Formatting text
 
 _Text2Lesson_ allows you to add some formatting elements to your text. This can be used
-to create heading or make some items bold. The format is based on [Markdown](https://daringfireball.net/projects/markdown/),
+to create headings or make some items bold. The format is based on [Markdown](https://daringfireball.net/projects/markdown/),
 but there are some limitations. There are also some extensions which are tailored for
 use with _Text2Lesson_
 
@@ -28,7 +28,7 @@ becomes
 
 ### Heading level 3
 
-You can also create a level one heading by putting one or more = characters below the line, and a level two heading bu putting one of more - characters
+You can also create a level one heading by putting one or more = characters below the line, and a level two heading by putting one or more - characters
 below the line. So:
 
 ```
@@ -57,7 +57,7 @@ To put words in italics, just surround them by single underscores. So
 
 To make words bold, just surround them by double asterisks or underscores. So
 
-> `**this is bold** and __this also__` becomes **this is bold** and **this also**.
+> `**this is bold** and __this is also bold__` becomes **this is bold** and **this is also bold**.
 
 # Lists
 
@@ -87,7 +87,7 @@ becomes:
 
 # Horizontal lines
 
-Horizontal lines are created by using three or more asterisks or hyphens in a line. Be careful with hyphens as they could turn the preceding line into a heading. You can also add spaces between the characters. The following examples would all create horizontal lines. Noticing how a blank line was left above the three hyphens.
+Horizontal lines are created by using three or more asterisks or hyphens in a line. Be careful with hyphens as they could turn the preceding line into a heading. You can also add spaces between the characters. The following examples would all create horizontal lines. Notice how a blank line was left above the three hyphens.
 
 ```
 ***
@@ -97,4 +97,14 @@ Horizontal lines are created by using three or more asterisks or hyphens in a li
 - - -
 ```
 
-In conventional Markdown you can also use underscores, but these have special meaning in _Text2Lesson_ to separate problems.
+becomes:
+
+---
+
+---
+
+---
+
+---
+
+In conventional Markdown you can also use underscores, but these have special meaning in _Text2Lesson_ and are used to separate problems.
