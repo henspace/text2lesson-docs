@@ -45,7 +45,7 @@ becomes:
 
 # Operators
 
-The characters **+**, **-**, and **\*** are converted to the operators **&plus;**, **&minus;** and **&times;**. Division is represented by the **/** character but is presented differently in block and inline modes.
+The characters **+**, **-**, and **\*** are converted to the operators **+**, **&minus;** and **&times;**. Division is represented by the **/** character, but is presented differently in block and inline modes.
 
 This code:
 
@@ -69,7 +69,7 @@ becomes:
 
 # Centre dot
 
-Any full stop between alphabetic characters or a digit and a following alphabetic character is converted to a a centre dot.
+Any full stop between alphabetic characters or a digit and a following alphabetic character is converted to a centre dot.
 
 So, this code:
 
@@ -118,6 +118,36 @@ maths: sqrt[x + 7]
 becomes
 
 ![equations showing radical symbol](../images/radical.png)
+
+# Powers
+
+To raise something to the power of another, use the **^** character. Anything following in parentheses will be presented as superscript. If parentheses are not used, all characters up to the next space will be written in superscript.
+
+This code:
+
+```
+maths: x^(n + 1)
+maths: x^number
+```
+
+becomes
+
+![Equation showing x raised to the power](../images/power.png)
+
+# Subscripts
+
+To create a subscript, use the **\_** character. Anything following in parentheses will be presented as subscript. If parentheses are not used, all characters up to the next space will be written in subscript.
+
+This code:
+
+```
+maths: x_(n + 1)
+maths: x_number
+```
+
+becomes
+
+![Equation showing x with subscripts](../images/subscript.png)
 
 # Integrals and partial derivatives
 
