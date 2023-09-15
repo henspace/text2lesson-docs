@@ -4,11 +4,11 @@ layout: main
 
 # Adding maths, or if you prefer, math
 
-_Text2Lesson_ provides some very limited support for formatting maths. It's fast and lightweight, but only intended for handling very simple equations. Throw something complicated at
+_Text2Lesson_ provides some very limited support for formatting maths at the moment. It's fast and lightweight, but only intended for handling very, very simple equations. Throw something complicated at
 it, and it will almost certainly get it wrong. With those limitations in mind, let's
-see what it can do.
+see what it can currently do.
 
-Support for MathJax will be coming.
+For complex maths, support for MathML will be coming soon, so watch this space.
 
 # Inserting maths
 
