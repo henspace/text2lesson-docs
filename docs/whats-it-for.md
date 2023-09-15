@@ -10,13 +10,15 @@ for example. Surely, we don't need another one?
 
 _Text2Lesson_ is different. It has three distinct features:
 
-- Speed: quickly writing down your lesson in plain text is faster than clicking
+- **Speed**: quickly writing down your lesson in plain text is faster than clicking
   in a fancy UI. It might not seem it at first, but once you've got to grips with
   it, you'll be flying.
-- Autorun lessons: simple files that can be shared anyway you like. Students can
+- **Autorun lessons**: these are simple files that can be shared anyway you like. Students can
   just open the file and run the lesson.
-- Privacy: no accounts, no log ins — nothing. We've all got enough online accounts
-  and we probably don't want any more.
+- **Privacy**: there are no accounts and no log ins — nothing. We've all got enough
+  online accounts and we probably don't want any more.
+
+# What can I use it for?
 
 These are probably the three main uses of _Text2Lesson_:
 
@@ -26,20 +28,20 @@ These are probably the three main uses of _Text2Lesson_:
 - to create lessons for someone else to use.
 - to create lessons for yourself or others.
 
-> Why do I want to play someone else's lesson?
->
-> > Perhaps it was sent to you as an assignment by your teacher. Perhaps,
-> > something in _Text2Lesson_'s library (when it arrives 😉) interests you.
+# Why would I want to play someone else's lesson?
 
-> Why do I want to use it to create a lesson for someone else?
->
-> > Perhaps you want to create a quiz about some topic for your students. You
-> > haven't got much time, so you need a quick method. No need to worry about
-> > data protection or creating accounts. Your students will just be able to run
-> > the lesson file you send.
+Perhaps it was sent to you as an assignment by your teacher. Perhaps,
+something in _Text2Lesson_'s library (when it arrives 😉) interests you.
 
-> Okay! Why would I want to create a lesson for myself?
->
-> > One reason might be to help you revise for a test. You can create a personal
-> > lesson to help drill a topic into your memory. You can also include
-> > questions to test your understanding as an alternative to using flash cards.
+# Why would I want to use it to create a lesson for someone else?
+
+Perhaps you want to create a quiz about some topic for your students. You
+haven't got much time, so you need a quick method. No need to worry about
+data protection or creating accounts. Your students will just be able to run
+the lesson file you send.
+
+# Okay! Why would I want to create a lesson for myself?
+
+One reason might be to help you revise for a test. You can create a personal
+lesson to help drill a topic into your memory. You can also include
+questions to test your understanding as an alternative to using flash cards.

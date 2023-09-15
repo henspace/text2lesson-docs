@@ -4,7 +4,7 @@ layout: main
 
 # Example lessons
 
-The easiest way to learn _Text2Lesson_ lesson is to look at some examples. All of
+The easiest way to learn _Text2Lesson_ is to look at some examples. All of
 these are also included in the _Example quizzes_ book in _Text2Lesson_'s remote
 library.
 
@@ -12,7 +12,7 @@ Each quiz introduces a new feature, so take a look at each one. Play
 the lesson in _Text2Lesson_ first, and then take a look at the text that was used
 to create the lesson.
 
-# Multiple choice questions
+# Capital cities of Europe: multiple choice questions
 
 This is the simplest lesson. All it includes is a set of multiple choice questions
 with a single answer to each.
@@ -23,7 +23,7 @@ with a single answer to each.
 Here is a part of that lesson:
 
 ```
-? What is the capital of Spain?
+(?) What is the capital of Spain?
 = Madrid
 x Barcelona
 x Seville
@@ -33,15 +33,18 @@ x Valencia
 Hopefully, you can see how easy it is to write the quiz. The text is broken down
 into a set of problems or questions by using special indicators.
 
-- **?**: the question mark indicator identifies the question.
+- **(?)**: the question mark indicator identifies the question.
 - **=**: the equals sign indicator identifies the correct answer.
 - **x**: the x indicators identify the wrong answers.
 
-# Multiple choice question with more than one possible answer
+The parentheses around the question mark are optional, but they normally make it
+easier to identify the question.
 
-Here is another simple lesson. Again, it just comprises a list of questions.
-The only difference is that the file has more than one answer starting with an
-equals sign. That's because there's more than one possible right anwser.
+# Famous authors: multiple choice question with more than one possible answer
+
+Here is another simple lesson. Again, it just comprises a number of questions.
+The only difference is that the questions have more than one answer starting with an
+equals sign. That's because there's more than one possible right answer.
 
 1. Play the lesson in _Text2Lesson_.
 1. Take a look at the [Famous authors](examples/famous_authors.txt) text.
@@ -49,18 +52,18 @@ equals sign. That's because there's more than one possible right anwser.
 Again, here is part of that lesson.
 
 ```
-? Which of these books are by Chaucer?
-= The Cantebury tales
+(?) Which of these books are by Chaucer?
+= The Canterbury tales
 = Troilus and Criseyde
 x The divine comedy
 x Purgatorio
 ```
 
-# Introductions
+# Animals: introductions
 
 Sometimes you will want to give the reader a bit more information about the
 question that follows. This is done by adding a introduction item. The introduction
-item begins with the character **i**. You can put this in brackets to make it clearer
+item begins with the character **i**. Again, you can put this in parentheses to make it clearer
 like this **(i)**. They'll both work.
 
 In this lesson, each question has some introductory text.
@@ -72,7 +75,7 @@ Here is an extract showing the introduction:
 
 ```
 (i) This is a short quiz about animals. Have a go and see how much you know.
-? Which of these animals is only found in South America?
+(?) Which of these animals is only found in South America?
 = White headed capuchin monkey
 x Vervet monkey
 x Samango monkey

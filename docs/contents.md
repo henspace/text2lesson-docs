@@ -4,7 +4,7 @@ layout: main
 
 # Contents
 
-Check out the following topics to learn more about _Text2Lesson_. If you do decide
+Check out the following topics to learn more about _Text2Lesson_. If you decide
 to take _Text2Lesson_ for a spin, you'll also find a lesson in the main library
 that will take you through the process of creating a lesson and quiz.
 
@@ -31,16 +31,16 @@ that will take you through the process of creating a lesson and quiz.
   - [Metadata](writing/metadata.md)
   - [Problem types](writing/problem-types.md)
 
-# Where is Text2Lesson
+# Where do I find Text2Lesson?
 
 - [Launch Text2Lesson](https://henspace.github.io/text2lesson/index.html).
 
 # Feedback
 
 Feedback on the application is always appreciated. Perhaps there's something
-missing or you've found a bug. There's a couple of ways to provide feedback.
+missing, or you've found a bug. Here's a couple of ways to provide feedback:
 
-- If you're on Github, just [raise an issue](https://github.com/henspace/text2lesson/issues)
+- If you're on Github, just [raise an issue](https://github.com/henspace/text2lesson/issues).
 - Otherwise, try the [Text2Lesson feedback form](https://forms.gle/KvpYwgbUBgBgWzME6).
   The form is powered by Google Forms so will be subject to their privacy policies, which you
   can find on the form.

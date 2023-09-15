@@ -26,7 +26,5 @@ The source code is available in the [text2lesson repository](https://github.com/
 The sounds in the application were generated using the fantastic [Chiptone](https://sfbgames.itch.io/chiptone)
 program. Big thanks to SFBGames for making that tool available.
 
-A number of images are used in the lessons. Check the [image credits](./images/image-credits.md) for details.
-
 Please note that any acknowledgment does not mean that the acknowledged creators endorse _Text2Lesson_ or the use of their work in
 any way.

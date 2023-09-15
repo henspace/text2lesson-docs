@@ -11,7 +11,7 @@ Here is an example lesson with an introduction.
 ```
 (i) This is a short quiz about animals. Have a go and
 see how much you know.
-? Which of these animals is only found in South America
+(?) Which of these animals is only found in South America
 = White headed capuchin monkey
 x Vervet monkey
 x Samango monkey
@@ -19,7 +19,7 @@ x Black and white colobus monkey
 ```
 
 The introduction pops up just before the question. That's the standard way
-to add introductions for each problem. Those indicators, **(i)**, **?**, **=**, and **x** are
+to add introductions for each problem. Those indicators, **(i)**, **(?)**, **=**, and **x** are
 all used to define a problem, and our lesson can contain as many problems as we
 want.
 
@@ -33,7 +33,7 @@ It's made up of multiple paragraphs.
 But it has no associated question.
 
 (i) This is a short quiz about animals. Have a go and see how much you know.
-? Which of these animals is only found in South America?
+(?) Which of these animals is only found in South America?
 = White headed capuchin monkey
 x Vervet monkey
 x Samango monkey
@@ -49,11 +49,11 @@ we have defined two problems:
 
 So what does _Text2Lesson_ do?
 
-It turns the introduction into a slideshow.
+Because the first introduction has no question, it becomes a slideshow.
 
 You saw how to edit a lesson in [changing an example lesson](changing-an-example-lesson.md),
 so now try adding an introduction to the lesson, but with no associated question.
-If you want, you can copy and paste the text below into a lesson and see what it does.
+If you want, you can copy and paste the text below into the lesson and see what it does.
 
 ```
 (i) Turning and turning in the widening gyre
@@ -65,7 +65,7 @@ Things fall apart; the centre cannot hold;
 Mere anarchy is loosed upon the world,
 
 (i) Today's topic is poetry.
-? You've just read a short extract from a famous poem
+(?) You've just read a short extract from a famous poem
 called "The Second Coming". But who wrote it?
 = William Butler Yeats
 x William Wordsworth

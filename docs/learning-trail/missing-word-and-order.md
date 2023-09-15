@@ -5,25 +5,29 @@ layout: main
 # Missing word and order problems
 
 So far we've looked at multiple choice questions and slideshow presentations.
-There are two more types of problems of problems that _Text2Lesson_ can handle:
+There are two more types of problems that _Text2Lesson_ can handle:
 
-- Missing word problem: in this problem, words are missing from the question, and
+- **Missing word problem**: in this problem, words are missing from the question, and
   the person playing the lesson has to select the missing word from a number of options.
-- Order problem: in this problem, words have to be selected in the correct order.
+- **Order problem**: in this problem, words have to be selected in the correct order.
 
 Let's take a look at how we create these.
 
-# Missing word
+# Missing word problem
 
 This is created by defining a question with what are called missing words. A missing
 word is created in the question by typing three dots immediately followed by the missing
-word. The question will then be presented with the missing words hidden and replaced
-by a set of options from which the correct word must be be selected.
+word.
+
+The question is presented with the missing words hidden and replaced
+by fields from which the correct answer can be selected. The possible answers are
+presented as a drop-down list of options formed from all the missing words combined with
+any wrong answers that were defined.
 
 Here is an example:
 
 ```
-? Complete this sentence:
+(?) Complete this sentence:
 The playwright ...William ...Shakespeare wrote
 Romeo and Juliet.
 x John
@@ -32,24 +36,27 @@ x Percy
 x Keats
 ```
 
-This question will be shown as:
+This question would be shown as:
 
 ```
 Complete this sentence: The playwright _______ _______ wrote Romeo and Juliet.
 ```
 
-The wrong answers, created by using the **x** indicator will be added to the
+The wrong answers, created by using the **x** indicator are added to the
 possible options for each word.
 
-Cut and paste that lesson into one of your lesson slots and see what it does.
+Cut and paste the above lesson into one of your lesson slots and see what it does.
 
 # Order problem
 
 If the question just has `123` at the end, it creates a ordering problem.
 
-Each of the right answers are put in a row, and they have to be selected in the
-same order they were written in the lesson. Any wrong answers are added to the
-possible options, to make the question harder. Here is an example:
+At the end of the question, a row of fields are added &mdash; one for each of the defined right answers.
+
+The possible answers for each field are presented as a drop-down list of options formed from all the right answers combined with any wrong answers that were also defined.
+
+The correct answer for each field are taken as being in the same order as the right answers
+were defined. Here is an example:
 
 ```
 ? Put the prime numbers in ascending order. 123
