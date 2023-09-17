@@ -8,7 +8,7 @@ _Text2Lesson_ provides some very limited support for formatting maths at the mom
 it, and it will almost certainly get it wrong. With those limitations in mind, let's
 see what it can currently do.
 
-For complex maths, support for MathML will be coming soon, so watch this space.
+For complex maths, you will need to use [MathML](./maths-ml.md).
 
 # Inserting maths
 
@@ -20,7 +20,7 @@ There are two ways to insert maths into your lessons: inline or as a block.
 So this code:
 
 ```
-Inline maths {maths}y = 2a + 3b{maths} like this.
+This equation {maths}y = 2a + 3b{maths} is inline.
 maths: y = 2a + 3b
 ```
 
@@ -178,3 +178,27 @@ maths: sum 10x
 becomes:
 
 ![Equation showing summation symbol](../images/sum.png)
+
+# The disappearing colon
+
+Sometimes you may need to separate items. For example, look at this line:
+
+```
+maths:alphabeta
+```
+
+We want to show the Greek character alpha immediately followed by the Greek character
+beta. Unfortunately, _Text2Lesson_ sees this as the word `alphabeta` rather than
+two separate words. To separate them we can use the **:** character. _Text2Lesson_
+will then identify `alpha` and `beta` as two separate words. The **:** character
+will be removed.
+
+So, this code:
+
+```
+maths:alpha:beta
+```
+
+becomes:
+
+![Image of Greek characters alpha and beta](../images/alpha_beta.png)

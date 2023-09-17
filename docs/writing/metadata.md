@@ -86,4 +86,4 @@ Notice how `meta:MyName` has been replaced by the metadata's value of `John`.
 # Limitations
 
 Metadata can only be used for simple replacements. You cannot include any
-[Markdown](./markdown-light.md) formatting in the metadata values.
+[formatting](../formatting/format-text.md) in the metadata values.

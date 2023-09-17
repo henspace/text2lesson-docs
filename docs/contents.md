@@ -10,6 +10,10 @@ that will take you through the process of creating a lesson and quiz.
 
 - [What's it for?](whats-it-for.md)
 - [The Learning trail](learning-trail/learning-trail.md)
+  - Jumping in
+    - [I want to create a lesson for students.](learning-trail/create-a-lesson-for-students.md)
+    - [I want to make a test for my own revision.](learning-trail/create-a-revision-test.md)
+    - [I just want to play existing lessons.](learning-trail/i-just-want-to-play.md)
   - [Examples](learning-trail/examples.md)
   - [The libraries](learning-trail/the-libraries.md)
   - [Example lessons](learning-trail/examples.md).
@@ -25,9 +29,9 @@ that will take you through the process of creating a lesson and quiz.
   - [Lesson format](writing/lesson-format.md)
     - [Formatting text](formatting/format-text.md)
     - [Adding maths](formatting/add-maths.md)
+      - [Using MathsML](formatting/maths-ml.md)
     - [Adding images](formatting/add-images.md)
       - [Using Wikimedia Commons](formatting/using-wikimedia-commons.md)
-  - [Markdown light](writing/markdown-light.md)
   - [Metadata](writing/metadata.md)
   - [Problem types](writing/problem-types.md)
 

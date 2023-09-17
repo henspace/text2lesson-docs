@@ -59,7 +59,7 @@ x Berlin
 Note that the possible answers are automatically shuffled when the problem is
 presented.
 
-## Multi problem
+# Multiple correct answer problem
 
 This is a traditional multiple choice question where users should select more
 than one answer. Here is an example
@@ -75,7 +75,7 @@ x Kangaroo
 Note that the possible answers are automatically shuffled when the problem is
 presented.
 
-## Missing word problem
+# Missing word problem
 
 This is a special problem where the question is displayed with a number of
 missing words. Where the words have been removed, the user has to select the
@@ -107,7 +107,7 @@ answer for each drop-down list is taken from the order in which
 the right answers are defined. Here is an example question:
 
 ```
-(?)Put the even numbers in ascending order ...
+(?) Put the even numbers in ascending order ...
 = two
 = four
 = six

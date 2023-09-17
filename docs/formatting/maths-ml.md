@@ -2,7 +2,7 @@
 layout: main
 ---
 
-# MathsMl
+# Using MathsML
 
 _Text2Lesson_ has its own inbuilt formatter for [maths](./add-maths.md). This is fine for very,
 very simple equations, but it is not intended for complex maths formatting.

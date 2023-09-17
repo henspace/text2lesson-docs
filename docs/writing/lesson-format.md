@@ -19,7 +19,7 @@ The _metadata_ is an advanced feature, so we'll ignore that for the moment.
 # The basic problem elements
 
 The different problem _elements_ are identified by a lines which start with an
-_indicator_. Any other characters following the identifier form
+_indicator_ followed by a space. Any other characters following the identifier form
 part of the data for the _element_.
 
 The _indicators_ are as follows:
@@ -28,7 +28,7 @@ The _indicators_ are as follows:
   problem.
 - **?**: Question. This is the question that is to be asked.
 - **=**: Right answer. This is the correct answer to the question.
-- **x**: Wrong answer. This is a wrong answere for the question.
+- **x**: Wrong answer. This is a wrong answer for the question.
 - **&**: Explanation. This is text that can be displayed once the question has
   been answered.
 - **\_**: Separator. This is used to separate questions.
@@ -60,8 +60,8 @@ the following would also work.
 (&) Paris is the capital of France.
 ```
 
-You don't need to use the brackets, but you might find it clearer for the
-introduction _indicator_. It's up to you.
+You don't need to use the brackets, but it's recommended that you use them for the
+introduction and question _indicators_. It's up to you.
 
 To add more flexibility, you can repeat the brackets and
 _indicator_ as many times as you like. So this is also valid.
@@ -77,7 +77,7 @@ _indicator_ as many times as you like. So this is also valid.
 (&) Paris is the capital of France.
 ```
 
-As a final bit of flexibility, you can precede the _element&nbsp;indentifier_ or
+As a final bit of flexibility, you can precede the _indicator_ or
 its enclosing bracket, by a minus sign, hash, underscore, asterisk or space,
 repeated up to three times. So this is also valid:
 
