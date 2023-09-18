@@ -34,6 +34,7 @@ that will take you through the process of creating a lesson and quiz.
       - [Using Wikimedia Commons](formatting/using-wikimedia-commons.md)
   - [Metadata](writing/metadata.md)
   - [Problem types](writing/problem-types.md)
+- [License details](./licenses.md)
 
 # Where do I find Text2Lesson?
 
