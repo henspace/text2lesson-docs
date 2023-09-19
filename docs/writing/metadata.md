@@ -79,14 +79,19 @@ Notice how `meta:MyName` has been replaced by the metadata's value of `John`.
 # Limitations
 
 Metadata can only be used for simple replacements. You cannot include any
-[formatting](../formatting/format-text.md) in the metadata values.
+[formatting](../formatting/format-text.md) in the metadata values. There is one
+exception for the **AUTHOR** key which is described below.
 
 # Author and licensing information
 
 The following metadata keys have special meaning within _Text2Lesson_:
 
 - **TITLE**: the lesson title
-- **AUTHOR**: the lesson's author
+- **AUTHOR**: the lesson's author. This can contain some limited formatting. It is
+  primarily in order to allow a web address to be included. For example:
+
+  `AUTHOR: [John Doe](https://example.com)`
+
 - **COPYRIGHT**: the copyright for the lesson
 - **LICENSE**: the license under which the lesson in released. LICENCE is also accepted.
 - **ATTRIBUTION**: any additional attribution that is required. This may be appropriate if you are modifying a lesson that had been released under a Creative Commons by Attribution license.
