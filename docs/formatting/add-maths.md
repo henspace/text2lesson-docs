@@ -11,7 +11,7 @@ _Text2Lesson_ provides two methods of adding maths:
 
 Choose your option: [AsciiMath](./asciimath.md) or [MathML](./maths-ml.md).
 
-Both methods used the [MathML markup language](https://developer.mozilla.org/en-US/docs/Web/MathML) to render the expressions. If your browser does not support **MathML**, the program will do its best to simulate
+Both methods use the [MathML markup language](https://developer.mozilla.org/en-US/docs/Web/MathML) to render the expressions. If your browser does not support [MathML](https://developer.mozilla.org/en-US/docs/Web/MathML), the program will do its best to simulate
 the output. The differences are shown below for an example equation.
 
 ## Browser with MathML support

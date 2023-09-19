@@ -19,12 +19,21 @@ So this code:
 
 ```
 This equation {maths}y = 2a + 3b{maths} is inline.
+```
+
+becomes:
+
+![Image of inline equation](../images/maths-tags-inline.png)
+
+Whereas this code:
+
+```
 maths: y = 2a + 3b
 ```
 
 becomes:
 
-![Image of inline and block equation](../images/maths-tags.png)
+![Image of block equation](../images/maths-tags-block.png)
 
 # AsciiMath syntax
 
