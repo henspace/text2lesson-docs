@@ -4,6 +4,8 @@ layout: main
 
 # Adding images
 
+> <span style="font-size:2em;">💡</span> Tip: [Using Wikimedia Commons](./using-wikimedia-commons.md) is the easiest and recommended way for adding images to _Text2Lesson_.
+
 In any text based programs, adding images can always be a bit of a problem. Let's
 see how it's done in _Text2Lesson_. The basic format is very simple:
 
@@ -19,7 +21,7 @@ see how it's done in _Text2Lesson_. The basic format is very simple:
 So here is the text that can be used to show the _Text2Lesson_ logo.
 
 ```
-[Small logo showing T2L following by bulleted lines](https://henspace.github.io/text2lesson-docs/assets/images/logo/bordered_logo_128.png)
+![Small logo showing T2L following by bulleted lines](https://henspace.github.io/text2lesson-docs/assets/images/logo/bordered_logo_128.png)
 ```
 
 You can also add a title which will appear when you hover over the image. You do
@@ -65,12 +67,15 @@ separated by the **|** character. The full format is as follows:
 - **original-source-url**: this where you originally obtained the image and is normally different from the url used to display the image.
 - **authors**: these are the names of the people who created the image. In most cases it will be a single name.
 - **licence-name**: this is the short name of the licence. For example `CC BY-SA` or `PUBLIC DOMAIN`.
-- **licence-url**: this is the url for the details of the licence. If you omit this, the application will try to determine it from the licence-name.
+- **licence-url**: this is the url for the details of the licence. If you omit this, the application will try to determine it from the licence-name. The following licence names are recognised:
+  - **CC0**: [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/)
+  - **CC BY-xx**: [Creative Commons licences](https://creativecommons.org/licenses/). CC BY-SA, CC BY-NC, CC BY-NC-SA, CC BY-NC-ND licences are recognised. They can be followed by a version, e.g `CC BY-SA 2.5`. The version defaults to 4.0 if omitted.
+  - **Unsplash**: [Unsplash licence](https://unsplash.com/license) for free photos from [Unsplash](https://unsplash.com).
 - **notes**: this part contains extra information. For example, if you cropped the image, you might want to add `image cropped`.
 
-If you want to miss out any parts, still leave the **|** characters in place.
+If you want to miss out any parts, still leave the **\|** characters in place.
 
-Here are some example titles:
+Here are some example titles (note: these are just the titles and not the full image references):
 
 - `Photo of vase|https://henspace.com/fictitious-image.png|John Doe|CC BY 4.0|https://creativecommons.org/licenses/by/4.0/|made monochrome`
 - `Photo of car|https://henspace.com/fictitious-image.png|John Doe|Public Domain||`

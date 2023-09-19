@@ -4,7 +4,7 @@ layout: main
 
 # Welcome to Text2Lesson
 
-![ABC characters followed by arrow leading to question marks that fade away](images/banner.png)
+<img alt="ABC characters followed by arrow leading to question marks that fade away" src="images/banner.png" style="display:block">
 _Text2Lesson_ is an application that has been designed to take plain text files
 and convert them into lessons. And when we talk about lessons, we also mean
 quizzes that can accompany the information being presented.

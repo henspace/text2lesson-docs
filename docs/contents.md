@@ -2,7 +2,7 @@
 layout: main
 ---
 
-# Contents
+# 📖Contents
 
 Check out the following topics to learn more about _Text2Lesson_. If you decide
 to take _Text2Lesson_ for a spin, you'll also find a lesson in the main library
@@ -35,6 +35,7 @@ that will take you through the process of creating a lesson and quiz.
       - [Using Wikimedia Commons](formatting/using-wikimedia-commons.md)
   - [Metadata](writing/metadata.md)
   - [Problem types](writing/problem-types.md)
+- [Troubleshooting](./troubleshooting.md)
 - [License details](./licenses.md)
 
 # Where do I find Text2Lesson?
