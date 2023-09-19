@@ -92,3 +92,8 @@ The following metadata keys have special meaning within _Text2Lesson_:
 - **ATTRIBUTION**: any additional attribution that is required. This may be appropriate if you are modifying a lesson that had been released under a Creative Commons by Attribution license.
 
 If either the **AUTHOR** or **COPYRIGHT** keys are set, these values, along with the **LICENSE** and **ATTRIBUTION** values, are used to provide additional information on the certificate at the end of the lesson.
+
+The following license names are recognised and will be automatically converted to a link:
+
+- **CC0**: [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/)
+- **CC BY-xx**: [Creative Commons licences](https://creativecommons.org/licenses/). CC BY-SA, CC BY-NC, CC BY-NC-SA, CC BY-NC-ND licences are recognised. They can be followed by a version, e.g `CC BY-SA 2.5`. The version defaults to 4.0 if omitted.
