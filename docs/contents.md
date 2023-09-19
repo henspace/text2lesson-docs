@@ -30,7 +30,7 @@ that will take you through the process of creating a lesson and quiz.
     - [Formatting text](formatting/format-text.md)
     - [Adding maths](formatting/add-maths.md)
       - [Using AsciiMath](formatting/asciimath.md)
-      - [Using MathsML](formatting/maths-ml.md)
+      - [Using MathML](formatting/maths-ml.md)
     - [Adding images](formatting/add-images.md)
       - [Using Wikimedia Commons](formatting/using-wikimedia-commons.md)
   - [Metadata](writing/metadata.md)
