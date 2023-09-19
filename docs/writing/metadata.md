@@ -4,9 +4,10 @@ layout: main
 
 # Metadata
 
-Metadata is additional information about the lesson that can be included later
-in your problems. This allows you to give some text a label, and then repeat
-that text later in your lesson by using the label.
+Metadata serves two main purposes:
+
+- it allows you to provide details about who wrote the lesson, copyright information and how it is licensed.
+- it also allows you to provide additional information about the lesson that can be included later in your problems. This allows you to give some text a label, and then repeat that text later in your lesson by using the label.
 
 # Defining metadata
 
@@ -40,15 +41,7 @@ that preceding and which are not identified as metadata are ignored. This allows
 you to add your own comments to the start of the lesson by just starting the line
 with any invalid key character such as `@` or `#`.
 
-You can create your own keys but the following have special meaning within the
-application.
-
-```
-TITLE: the lesson title
-AUTHOR: the lesson's author
-DATE: the date of the lesson
-REVISION: the revision of the lesson
-```
+You can create your own keys, but some are reserved and are used for [author and licensing information](#author-and-licensing-information).
 
 Here is an example of the start of a valid lesson file:
 
@@ -87,3 +80,15 @@ Notice how `meta:MyName` has been replaced by the metadata's value of `John`.
 
 Metadata can only be used for simple replacements. You cannot include any
 [formatting](../formatting/format-text.md) in the metadata values.
+
+# Author and licensing information
+
+The following metadata keys have special meaning within _Text2Lesson_:
+
+- **TITLE**: the lesson title
+- **AUTHOR**: the lesson's author
+- **COPYRIGHT**: the copyright for the lesson
+- **LICENSE**: the license under which the lesson in released. LICENCE is also accepted.
+- **ATTRIBUTION**: any additional attribution that is required. This may be appropriate if you are modifying a lesson that had been released under a Creative Commons by Attribution license.
+
+If either the **AUTHOR** or **COPYRIGHT** keys are set, these values, along with the **LICENSE** and **ATTRIBUTION** values, are used to provide additional information on the certificate at the end of the lesson.

@@ -12,9 +12,10 @@ to write a lesson, we need to understand the basic structure.
 - Each lesson comprises a number of _problems_.
 - Each _problem_ comprises a number of _elements_.
 
-Before the problems, the file can contain meta data for the lesson. Any lines
-which precede the first problem are automatically assumed to form the meta data.
-The _metadata_ is an advanced feature, so we'll ignore that for the moment.
+Before the problems, the file can contain [metadata](./metadata.md) for the lesson. Any lines
+which precede the first problem are automatically assumed to form the [metadata](./metadata.md).
+The [metadata](./metadata.md) is used to provide information about the lesson: who wrote it, how it
+is licensed and so on.
 
 # The basic problem elements
 
