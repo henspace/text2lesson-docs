@@ -35,8 +35,9 @@ details:
   and conditions of the
   [Font Awesome Free License](https://fontawesome.com/license/free) (Icons: CC
   BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License).
-- **mathml.css**: the mathml.css file is based on the
+- **mathml.css**: the mathml.css file provided with _Text2Lesson_ is a modified version of original
   [mathml.css](https://github.com/fred-wang/mathml.css). This is used under the
   terms of the [Mozilla Public License, v. 2.0](http://mozilla.org/MPL/2.0/).
   The original code has been modified to include the `div .mathml-fallback-test`
   selector.
+- **Stix Two Math fonts**: the fonts used for maths are the [Stix Two Math fonts](https://github.com/stipub/stixfonts). These are used under the terms of the [SIL Open Font License 1.1](http://scripts.sil.org/OFL).

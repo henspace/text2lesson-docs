@@ -63,4 +63,3 @@ support these features, so some options may not be available to you.
   logs and stores your IP address for security purposes. For more information
   about GitHub's security practices, refer to the
   [GitHub Privacy Statement](https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement).
-- Some fonts are provided via the [Google Fonts](https://developers.google.com/fonts) Web Api. Refer to [Google's Privacy and Data Collection](https://developers.google.com/fonts/faq/privacy) for details.

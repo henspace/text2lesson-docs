@@ -4,34 +4,17 @@ layout: main
 
 # Using MathsML
 
-_Text2Lesson_ has its own inbuilt formatter for [maths](./add-maths.md). This is fine for very,
-very simple equations, but it is not intended for complex maths formatting.
+[MathML](https://developer.mozilla.org/en-US/docs/Web/MathML) is a complex markup language. It's verbose and best created using an authoring tool. If that sounds a bit daunting, _Text2Lesson_ also has support for **AsciiMath**, which allows you to type mathematical expressions just using standard text characters. Its quick and simple and a lot less verbose than [MathML](https://developer.mozilla.org/en-US/docs/Web/MathML). If that sounds like it's the thing for you, check out [Using AsciiMath](./asciimath.md) first.
 
-If you want to include complex maths in your lessons, you will need to use
-[MathML](https://developer.mozilla.org/en-US/docs/Web/MathML).
-
-If your browser does not support **MathML**, the program will do its best to simulate
-the output. The differences are shown below for an example equation.
-
-## Browser MathML support
-
-![Sophomore's dream](../images/sophomores-dream-mathml.png)
-
-## Fallback support if MathML not supported by the browser
-
-![Sophomore's dream](../images/sophomores-dream-fallback.png)
-
-# Using MathML
-
-Using **MathML** is simple &mdash; just paste it into your lesson. Creating the
-**MathML** is a slightly different question. Creating maths using
+Although creating **MathML** may be complicated, using it is simple &mdash; just paste it into your lesson. Creating the
+**MathML** is a slightly different question though. Creating maths using
 **MathML** creates quite verbose lessons, and although you can write it by hand, using
 an equation writer will make it much easier. Here are two possible options:
 
-- **[LibreOffice Math](https://www.libreoffice.org/)**: if you have [LibreOffice](https://www.libreoffice.org/) installed you can use its equation editor to create mathematical expressions in **MathML**. How to use it is explained later.
+- **[LibreOffice Math](https://www.libreoffice.org/)**: if you have [LibreOffice](https://www.libreoffice.org/) installed you can use its equation editor to create mathematical expressions in **MathML**. How to use it is explained later. This has a drag and drop interface which allows you to visualise the expression as you create it.
 - **[MATHML Central](https://www.mathmlcentral.com/Tools/ToMathML.jsp)**: [Wolfram Research](http://www.wolfram.com/) have an online tool
-  at [MATHML Central](https://www.mathmlcentral.com/Tools/ToMathML.jsp) which can be used to create mathematical expressions in **MathML**. You will need to understand
-  how to input equations using their TraditionalForm or StandardForm syntax.
+  at [MATHML Central](https://www.mathmlcentral.com/Tools/ToMathML.jsp) which can be used to create mathematical expressions in **MathML**; however, you will need to understand
+  how to input equations using their TraditionalForm or StandardForm syntax. [AsciiMath](./asciimath.md) may be a quicker route for you.
 
 # Using LibreOffice
 

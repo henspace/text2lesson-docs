@@ -32,6 +32,8 @@ program. Big thanks to SFBGames for making that tool available.
 
 Most of the icons are from the [Font Awesome Free](https://fontawesome.com/) icons set.
 
+Fonts for maths use the [Stix Two Math fonts](https://github.com/stipub/stixfonts).
+
 Styling for MathML, if not supported by the browser, has been made possible using
 a modified version of [mathml.css](https://github.com/fred-wang/mathml.css).
 
