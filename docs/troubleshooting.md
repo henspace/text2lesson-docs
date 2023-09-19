@@ -40,3 +40,19 @@ _____
 = yes
 x no
 ```
+
+# It keeps telling me I haven't added any answers, but I have.
+
+You must have a space or right bracket after the `=` and `x` indicators.
+
+This will be detected as a right answer:
+
+```
+= London
+```
+
+This won't:
+
+```
+=London
+```
