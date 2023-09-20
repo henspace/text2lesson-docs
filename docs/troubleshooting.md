@@ -56,3 +56,13 @@ This won't:
 ```
 =London
 ```
+
+# It keeps crashing or won't start up
+
+Whoops! Sorry about that. It's possible the memory has become corrupt. _Text2Lesson_
+should be able to recover, but perhaps something's been missed &mdash; blame the
+programmer.
+
+You can clear all the memory by clicking selecting
+[delete everything forever](https://henspace.github.io/text2lesson/delete-everything-forever.html).
+This will delete everything, including any lessons you may have stored, so use wisely.
