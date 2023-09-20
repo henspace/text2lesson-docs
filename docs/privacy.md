@@ -63,3 +63,8 @@ support these features, so some options may not be available to you.
   logs and stores your IP address for security purposes. For more information
   about GitHub's security practices, refer to the
   [GitHub Privacy Statement](https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement).
+
+# Deleting stored data
+
+No _Text2Lesson_ data are stored on the server; everything is stored on your local device. If
+you want to remove all stored data from your device, see the [delete everything forever](./deletion-tool.md) page for details.

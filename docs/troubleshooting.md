@@ -63,6 +63,5 @@ Whoops! Sorry about that. It's possible the memory has become corrupt. _Text2Les
 should be able to recover, but perhaps something's been missed &mdash; blame the
 programmer.
 
-You can clear all the memory by clicking selecting
-[delete everything forever](https://henspace.github.io/text2lesson/delete-everything-forever.html).
-This will delete everything, including any lessons you may have stored, so use wisely.
+You can clear all the memory to start afresh. Check
+[delete everything forever](./deletion-tool.md) for details on how to do this.

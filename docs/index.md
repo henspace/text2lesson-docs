@@ -2,7 +2,7 @@
 layout: main
 ---
 
-# 😀Welcome to Text2Lesson
+# Welcome to Text2Lesson
 
 <img alt="ABC characters followed by arrow leading to question marks that fade away" src="images/banner.png" style="display:block">
 _Text2Lesson_ is an application that has been designed to take plain text files
