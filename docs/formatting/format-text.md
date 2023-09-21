@@ -74,6 +74,20 @@ becomes
 
 **this is bold** and **this is also bold**.
 
+# Font size
+
+You can also increase the font size of text by enclosing it between two size tags like this:
+
+```
+{big}This is {big}very big{big} text.
+```
+
+becomes
+
+This is <span style="font-size:130%">very big</span> text.
+
+The following size tags are recognised: **big**, **bigger**, **biggest**, **massive**, and **giant**.
+
 # Superscript and subscript
 
 _Text2Lesson_ does not normally allow you to include HTML in your lessons. There
