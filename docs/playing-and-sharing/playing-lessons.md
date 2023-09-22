@@ -2,7 +2,7 @@
 layout: main
 ---
 
-# Playing lessons
+# ▶️ Playing lessons
 
 When we say _playing_ a lesson, we mean following the lesson material and having
 a go at any quizzes it might contain.
@@ -35,7 +35,7 @@ only one chapter, it will immediately jump to show the lessons.
 
 Follow the steps below to play a predefined lesson:
 
-1. From the home page, select `Open remote library`.
+1. From the home page, select **<i class="fa-solid fa-building-columns"></i>&nbsp;Open&nbsp;remote&nbsp;library**.
 1. From the list of books, select the book you want to open. If there is only
    one book available, this will have already been selected for you
    automatically.
@@ -43,7 +43,7 @@ Follow the steps below to play a predefined lesson:
    is only one chapter available, this will have already been selected for you
    automatically.
 1. Select the lesson.
-1. When the selected lesson summary is shown, click `Play lesson`.
+1. When the selected lesson summary is shown, click **<i class="fa-solid fa-play"></i>&nbsp;Play&nbsp;Lesson**.
 
 # Playing a local library lesson
 
@@ -51,9 +51,9 @@ The local library is used to store lessons you create yourself on your device.
 See [Writing lessons](../writing/writing-lessons.md) for help about writing lessons.
 Follow the steps below to play a lesson you've created yourself:
 
-1. From the home page, select `Open local library`.
+1. From the home page, select **<i class="fa-solid fa-building-columns"></i>&nbsp;Open&nbsp;local&nbsp;library**.
 1. Select the lesson you want to use.
-1. From the lesson summary select `Play lesson`.
+1. From the lesson summary select **<i class="fa-solid fa-play"></i>&nbsp;Play&nbsp;Lesson**.
 
 # Playing a lesson from the file system
 
@@ -67,12 +67,12 @@ system:
 
 ## Playing a plain text or exported lesson file
 
-1. From the home page, select `Open lesson from file system`.
+1. From the home page, select **<i class="fa-solid fa-file-import"></i>&nbsp;Open&nbsp;lesson&nbsp;from&nbsp;file&nbsp;system**.
 1. Browse to select the required lesson.
-1. From the lesson summary, select `Play lesson`.
+1. From the lesson summary, select **<i class="fa-solid fa-play"></i>&nbsp;Play&nbsp;Lesson**.
 
 ## Playing an autorun file
 
-An _autorun_ file is an `html` file that has been exported from _Text2Lesson_
+An [autorun file](../autorun-files.md) is a self-running file that has been exported from _Text2Lesson_
 to make it easier to play lessons. To play this lesson, simply open it in your
 browser. The lesson will start playing automatically.

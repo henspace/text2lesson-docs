@@ -2,7 +2,7 @@
 layout: main
 ---
 
-# Privacy policy
+# 🤐 Privacy policy
 
 _Text2Lesson_ has been designed to run on your device without the need to
 create user accounts or provide any personal data. This document describes what

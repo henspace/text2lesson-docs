@@ -2,7 +2,7 @@
 layout: main
 ---
 
-# Writing lessons
+# 📝 Writing lessons
 
 Lessons are written in plain text and comprise a number of problems. Refer to
 the [Lesson format](./lesson-format.md) guidance for details.

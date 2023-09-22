@@ -2,7 +2,7 @@
 layout: main
 ---
 
-# Delete everything forever
+# 🗑️ Delete everything forever
 
 > <span style="font-style: normal; font-size:2em;">⚠️</span> Be careful! This tool will delete everything from _Text2Lesson_:
 > not just cached pages, but your settings, and any lessons you created in your local library.

@@ -2,7 +2,7 @@
 layout: main
 ---
 
-# Formatting text
+# ✒️ Formatting text
 
 _Text2Lesson_ allows you to add some formatting elements to your text. This can be used
 to create headings or make some items bold. The format is based on [Markdown](https://daringfireball.net/projects/markdown/),

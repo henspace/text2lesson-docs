@@ -2,7 +2,7 @@
 layout: main
 ---
 
-# Online Help
+# 🛈 Online Help
 
 _Text2Lesson_ is an application that has been designed to take plain text files
 and convert them into lessons. And when we talk about lessons, we also mean

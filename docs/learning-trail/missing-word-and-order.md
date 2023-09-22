@@ -2,7 +2,7 @@
 layout: main
 ---
 
-# Missing word and order problems
+# 🕵️ Missing word and order problems
 
 So far we've looked at multiple choice questions and slideshow presentations.
 There are two more types of problems that _Text2Lesson_ can handle:

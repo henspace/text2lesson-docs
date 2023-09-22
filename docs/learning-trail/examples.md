@@ -2,7 +2,7 @@
 layout: main
 ---
 
-# Example lessons
+# 📄 Example lessons
 
 The easiest way to learn _Text2Lesson_ is to look at some examples. All of
 these are also included in the _Example quizzes_ book in _Text2Lesson_'s remote

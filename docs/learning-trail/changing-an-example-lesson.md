@@ -2,7 +2,7 @@
 layout: main
 ---
 
-# Changing an example lesson
+# ✏️ Changing an example lesson
 
 Lesson typically come from either the **Remote&nbsp;library** or the **Local&nbsp;library**. The local
 library starts with four empty slots. You can add more if you want. What we are

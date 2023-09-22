@@ -2,7 +2,7 @@
 layout: main
 ---
 
-# Using Wikimedia Commons
+# ![Wikimedia commons logo](../assets/third-party/32px-Nuvola_commons_icon.svg.png) Using Wikimedia Commons
 
 [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page) is a fantastic
 resource for free images. Because it is such a good source, _Text2Lesson_ provides
@@ -32,7 +32,7 @@ in _Text2Lesson_.
 ## Using BBCode
 
 [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page) allows you to use
-*BBCode** to define the image. *Text2Lesson* should be able to parse the **HTML\*\*
+*BBCode\*\* to define the image. *Text2Lesson* should be able to parse the \*\*HTML\*\*
 format successfully. If you come across an image where HTML doesn't seem to be
 recognised correctly, you can try the *BBCode** instead. The only difference is that
 the **BBCode** has to be wrapped between `{bbcode}` marker in _Text2Lesson_. So
@@ -77,3 +77,9 @@ nicely within the aim of _Text2Lesson_. You also need to make any content
 you create [free content](https://en.wikipedia.org/wiki/Free_content), normally under
 a [Creative Commons licence](https://en.wikipedia.org/wiki/Creative_Commons_license).
 That again fits in with the ethos of _Text2Lesson_.
+
+---
+
+Wikimedia Commons icon by Daniele Pugliesi, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons.
+
+Please note that any acknowledgment does not mean that the acknowledged creators endorse Text2Lesson or the use of their work in any way.

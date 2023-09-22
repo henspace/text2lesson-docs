@@ -2,7 +2,7 @@
 layout: main
 ---
 
-# Using AsciiMath
+# 🧮 Using AsciiMath
 
 **AsciiMath** allows you to type equations just using the standard characters you have on your keyboard. It tries to use text to mimic the way the characters will finish up being rendered. For example typing `oo` will finish up as infinity ![infinity](../images/am_infinity.png).
 

@@ -2,7 +2,7 @@
 layout: main
 ---
 
-# What's it for?
+# ❔ What's it for?
 
 So what's the point of _Text2Lesson_ then? There are loads of great online quiz
 generators out there: [Kahoot](https://kahoot.com/) and [Quizizz](https://quizizz.com/)

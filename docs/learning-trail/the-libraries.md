@@ -2,7 +2,7 @@
 layout: main
 ---
 
-# The libraries
+# 🏛️ The libraries
 
 When you first launch _Text2Lesson_, you're presented with three libraries.
 Lessons can come from multiple places and these are the three main places you can

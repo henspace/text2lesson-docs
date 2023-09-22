@@ -2,7 +2,7 @@
 layout: main
 ---
 
-# One problem, five ways
+# 🎲 One problem, five ways
 
 During the [Learning Trail](learning-trail.md) we've come across five different
 problem types. Let's look at how we could use these five different types for the

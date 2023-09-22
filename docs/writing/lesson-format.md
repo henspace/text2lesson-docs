@@ -2,7 +2,7 @@
 layout: main
 ---
 
-# Lesson format
+# 📝 Lesson format
 
 All lessons are created using plain text files.
 

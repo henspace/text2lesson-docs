@@ -2,7 +2,7 @@
 layout: main
 ---
 
-# Adding maths, or if you prefer, math
+# 🧮 Adding maths, or if you prefer, math
 
 _Text2Lesson_ provides two methods of adding maths:
 

@@ -2,7 +2,7 @@
 layout: main
 ---
 
-# Problem types
+# ❔ Problem types
 
 _Text2Lesson_ supports five problem types. The type is automatically derived
 from the way the problem is defined:

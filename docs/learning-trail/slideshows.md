@@ -2,7 +2,7 @@
 layout: main
 ---
 
-# Slideshows
+# 🎬 Slideshows
 
 Previously we looked at adding a introduction to a lesson by using the **(i)** indicator.
 

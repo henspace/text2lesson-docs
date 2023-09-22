@@ -2,7 +2,7 @@
 layout: main
 ---
 
-# Just play an existing lesson
+# ▶️ Just play an existing lesson
 
 This is part of the [learning trail](./learning-trail.md). In this step, we're not going to learn how
 _Text2Lesson_ works, we're just going to play an existing lesson.

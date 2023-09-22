@@ -2,7 +2,7 @@
 layout: main
 ---
 
-# Adding images
+# 🖼️ Adding images
 
 > <span style="font-size:2em;">💡</span> Tip: [Using Wikimedia Commons](./using-wikimedia-commons.md) is the easiest and recommended way for adding images to _Text2Lesson_.
 

@@ -2,7 +2,7 @@
 layout: main
 ---
 
-# Using MathsML
+# 🧮 Using MathsML
 
 [MathML](https://developer.mozilla.org/en-US/docs/Web/MathML) is a complex markup language. It's verbose and best created using an authoring tool. If that sounds a bit daunting, _Text2Lesson_ also has support for **AsciiMath**, which allows you to type mathematical expressions just using standard text characters. Its quick and simple and a lot less verbose than [MathML](https://developer.mozilla.org/en-US/docs/Web/MathML). If that sounds like it's the thing for you, check out [Using AsciiMath](./asciimath.md) first.
 

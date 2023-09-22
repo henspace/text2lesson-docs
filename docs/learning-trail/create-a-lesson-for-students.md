@@ -2,7 +2,7 @@
 layout: main
 ---
 
-# Create a lesson for students
+# ✏️ Create a lesson for students
 
 This is part of the [learning trail](./learning-trail.md). In this step, we're not going to learn how
 _Text2Lesson_ works, we're just going to jump in a create a lesson.
@@ -75,31 +75,7 @@ x Krypton (Kr)
 
 ## Step 5: share the lesson
 
-Assuming the lesson worked, you just need to share it with your students. The way
-to do that depends on the capabilities of your device. We'll show both ways here
-but you only have to chose one.
-
-## Sharing from the certificate
-
-If your browser supports the Web Share Api, you can share directly from the
-certificate.
-
-1. Click on the **<i class="fa-solid fa-share-nodes"></i>&nbsp;<i class="fa-solid fa-gears"></i>&nbsp;Share autorun lesson** button.
-1. A number of options will appear depending on your device.
-1. Select the appropriate option.
-1. The lesson will be shared as an autorun file which your students can simple open
-   and play.
-
-## Sharing by saving a file
-
-If your browser does not support the Web Share Api, you can still share, but this
-time you will need to do so from the editor.
-
-1. From the certificate, click **<i class="fa-solid fa-file-pen"></i>&nbsp;Edit**.
-1. From the editor window, select **<i class="fa-solid fa-file-export"></i>&nbsp;Export&nbsp;lesson**.
-1. When prompted, select **<i class="fa-solid fa-file-export"></i><i class="fa-solid fa-gears"></i>&nbsp;Export&nbsp;autorun**.
-1. Save the file to a suitable location on your device.
-1. Email the file to your students.
+Assuming the lesson worked, you just need to share it with your students. See [Sharing lessons](../playing-and-sharing/sharing-lessons.md) for details about how to share your work.
 
 # Continuing the learning trail
 

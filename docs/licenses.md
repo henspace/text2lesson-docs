@@ -2,7 +2,7 @@
 layout: main
 ---
 
-# License details
+# 📜 License details
 
 _Text2Lesson_ is licensed under the [GPL-3.0 License](https://www.gnu.org/licenses/gpl-3.0.en.html#license-text).
 

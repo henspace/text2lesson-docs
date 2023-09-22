@@ -2,7 +2,7 @@
 layout: main
 ---
 
-# 👩‍🎓The learning trail
+# 👣The learning trail
 
 The learning trail is a collection of topics designed to get you creating your own
 lessons and quizzes as quickly as possible. Each step introduces a new feature of

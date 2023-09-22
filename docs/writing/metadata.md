@@ -2,7 +2,7 @@
 layout: main
 ---
 
-# Metadata
+# 📝 Metadata
 
 Metadata serves two main purposes:
 
