@@ -57,6 +57,40 @@ This won't:
 =London
 ```
 
+# One of my questions is missing
+
+This can happen if you forget to add an **i** or **?** indicator after a ****\_**** separator.
+
+Imagine you type this:
+
+```
+_____
+What is the capital of the UK?
+= London
+x Paris
+
+(?) What is the capital of France?
+= Paris
+x London
+```
+
+When _Text2Lesson_ runs, it will see the separator and then look for the next introduction **i** or question **?** indicator. It will ignore everything else. In this example the first question it will find will be `What is the capital of France?` It will ignore the one about the capital of the UK as it wasn't flagged as a question.
+
+> <span style="font-size:2em;">⚠️</span> Make sure you don't forget your introduction or question indicators.
+
+This is what the lesson should have looked like:
+
+```
+_____
+(?) What is the capital of the UK?
+= London
+x Paris
+
+(?) What is the capital of France?
+= Paris
+x London
+```
+
 # It keeps crashing or won't start up
 
 Whoops! Sorry about that. It's possible the memory has become corrupt. _Text2Lesson_
