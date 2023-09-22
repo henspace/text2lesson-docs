@@ -10,14 +10,14 @@ _Text2Lesson_ works, we're just going to jump in a create a revision lesson.
 ## Step 1: let's create a lesson ready for editing
 
 1. If you haven't started _Text2Lesson_, you will need to <a href="https://henspace.github.io/text2lesson/index.html" target="_blank">launch</a> it first.
-1. From the home page, select **Open local library**.
+1. From the home page, select **<i class="fa-solid fa-building-columns"></i>&nbsp;Open&nbsp;local&nbsp;library**.
 1. If you've just started, you will have four slots. Click on the first empty one.
    It will be labelled **Empty:**.
-1. A summary of the lesson will open. Click **Edit** from the buttons at the bottom
+1. A summary of the lesson will open. Click **<i class="fa-solid fa-file-pen"></i>&nbsp;Edit** from the buttons at the bottom
    of the page.
 1. The editing page will open.
 1. Set the title to **My revision notes**.
-1. Click **Save** to save your progress.
+1. Click **<i class="fa-solid fa-file-arrow-down"></i>&nbsp;Save** to save your progress.
 
 ## Step 2: let's add an introduction for the lesson
 
@@ -25,7 +25,7 @@ _Text2Lesson_ works, we're just going to jump in a create a revision lesson.
 1. We are going to add an introduction to the lesson. You'll see it starts
    with the **(i)** characters. This identifies the text that follows as an
    introduction.
-1. Copy the following text into the area. Make sure you include the **(i)** at the beginning and the underscores **\_** at the end. Click **Save**
+1. Copy the following text into the area. Make sure you include the **(i)** at the beginning and the underscores **\_** at the end. Click **<i class="fa-solid fa-file-arrow-down"></i>&nbsp;Save**
    after you've added the text.
 
 ```
@@ -46,7 +46,7 @@ _______________________
 1. The introduction was identified by the **(i)** characters. The questions are
    identified by the **(?)** characters. The correct answer is identified by an **=**
    character and wrong answers by **x** characters.
-1. Copy the following text into your lesson below the introduction. Click **Save**
+1. Copy the following text into your lesson below the introduction. Click **<i class="fa-solid fa-file-arrow-down"></i>&nbsp;Save**
    after you've added the text.
 
 ```
@@ -67,10 +67,10 @@ x Krypton (Kr)
 
 ## Step 4: let's test the lesson
 
-1. Make sure you saved the work by clicking **Save**. If that option is disabled,
+1. Make sure you saved the work by clicking **<i class="fa-solid fa-file-arrow-down"></i>&nbsp;Save**. If that option is disabled,
    don't worry; it just means you've already saved it.
-1. Click **Close Editor** to exit the editor.
-1. Click **Play lesson**.
+1. Click **<i class="fa-solid fa-square-xmark"></i>&nbsp;Close** to exit the editor.
+1. Click **<i class="fa-solid fa-play"></i>&nbsp;Play&nbsp;Lesson**.
 1. Follow the lesson until you get to the certificate at the end.
 
 # Continuing the learning trail
