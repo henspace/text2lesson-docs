@@ -4,7 +4,7 @@ layout: main
 
 # 🎁 Sharing lessons
 
-_Text2Lesson_ provides a few ways to share lessons. How you share will depends on the capabilities of your device. We'll show both ways here
+_RapidQandA_ provides a few ways to share lessons. How you share will depends on the capabilities of your device. We'll show both ways here
 but you only have to chose one.
 
 ## Sharing from the certificate

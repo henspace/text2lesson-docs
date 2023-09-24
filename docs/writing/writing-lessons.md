@@ -28,7 +28,7 @@ You have three ways to create your own lessons.
 1. Make sure you include a title at the top of the file. This should be written
    using the title [metadata](./metadata) like this: `title: my title here`.
 1. Save it to your local file system.
-1. From the home page of _Text2Lesson_, select `Open lesson from file system`.
+1. From the home page of _RapidQandA_, select `Open lesson from file system`.
 1. Browse to select the required lesson.
 1. From the lesson summary, select `Play lesson`.
 
@@ -36,7 +36,7 @@ You have three ways to create your own lessons.
 
 1. Create a lesson using your preferred text editor.
 1. Save it to your local file system.
-1. From the home page of _Text2Lesson_, select `Open local library`.
+1. From the home page of _RapidQandA_, select `Open local library`.
 1. Select the slot you want to use.
 1. Select `Edit`.
 1. Select `Import`.

@@ -6,7 +6,7 @@ layout: main
 
 The learning trail is a collection of topics designed to get you creating your own
 lessons and quizzes as quickly as possible. Each step introduces a new feature of
-_Text2Lesson_.
+_RapidQandA_.
 
 Before you start though, let's jump in and create something without even knowing
 how it all works. Pick whichever option fits your goal.

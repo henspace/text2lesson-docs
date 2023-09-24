@@ -4,8 +4,8 @@ layout: main
 
 # 📖Contents
 
-Check out the following topics to learn more about _Text2Lesson_. If you decide
-to take _Text2Lesson_ for a spin, you'll also find a lesson in the main library
+Check out the following topics to learn more about _RapidQandA_. If you decide
+to take _RapidQandA_ for a spin, you'll also find a lesson in the main library
 that will take you through the process of creating a lesson and quiz.
 
 - [What's it for?](whats-it-for.md)
@@ -39,6 +39,6 @@ that will take you through the process of creating a lesson and quiz.
 - [License details](./licenses.md)
 - [Getting in touch and feedback](./contact.md)
 
-# Where do I find Text2Lesson?
+# Where do I find RapidQandA?
 
-- [Launch Text2Lesson](https://henspace.github.io/text2lesson/index.html).
+- [Launch RapidQandA](https://henspace.github.io/text2lesson/index.html).

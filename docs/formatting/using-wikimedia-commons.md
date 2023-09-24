@@ -5,10 +5,10 @@ layout: main
 # ![Wikimedia commons logo](../assets/third-party/32px-Nuvola_commons_icon.svg.png) Using Wikimedia Commons
 
 [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page) is a fantastic
-resource for free images. Because it is such a good source, _Text2Lesson_ provides
+resource for free images. Because it is such a good source, _RapidQandA_ provides
 special support for images you might find there. Follow these simple steps to use
 an image from [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page)
-in _Text2Lesson_.
+in _RapidQandA_.
 
 1. Go to [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page).
 1. Use the search tools to find the image you want.
@@ -23,7 +23,7 @@ in _Text2Lesson_.
 1. Copy all the text from the **Embed this file** field to the clipboard. The **HTML**
    option should be selected.
 1. Paste the text into your lesson file.
-1. _Text2Lesson_ will automatically extract the image and attribution details; you
+1. _RapidQandA_ will automatically extract the image and attribution details; you
    don't need to do anything.
 1. An example is shown below:
 
@@ -32,10 +32,10 @@ in _Text2Lesson_.
 ## Using BBCode
 
 [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page) allows you to use
-*BBCode\*\* to define the image. *Text2Lesson* should be able to parse the \*\*HTML\*\*
+*BBCode\*\* to define the image. *RapidQandA* should be able to parse the \*\*HTML\*\*
 format successfully. If you come across an image where HTML doesn't seem to be
 recognised correctly, you can try the *BBCode** instead. The only difference is that
-the **BBCode** has to be wrapped between `{bbcode}` marker in _Text2Lesson_. So
+the **BBCode** has to be wrapped between `{bbcode}` marker in _RapidQandA_. So
 to use the \*BBCode** text, just type `{bbcode}{bbcode}` in your lesson, and then
 paste the **BBCode** between the two tags.
 
@@ -70,16 +70,16 @@ Notice that it starts with `{bbcode}<[url` and not `{bbcode}[url`.
 
 [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page) also allows
 you to upload your own images and then embed them in web pages. This makes it ideal
-for use with _Text2Lesson_.
+for use with _RapidQandA_.
 
 Images you add should really be for educational purposes, but that of course fits
-nicely within the aim of _Text2Lesson_. You also need to make any content
+nicely within the aim of _RapidQandA_. You also need to make any content
 you create [free content](https://en.wikipedia.org/wiki/Free_content), normally under
 a [Creative Commons licence](https://en.wikipedia.org/wiki/Creative_Commons_license).
-That again fits in with the ethos of _Text2Lesson_.
+That again fits in with the ethos of _RapidQandA_.
 
 ---
 
 Wikimedia Commons icon by Daniele Pugliesi, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons.
 
-Please note that any acknowledgment does not mean that the acknowledged creators endorse Text2Lesson or the use of their work in any way.
+Please note that any acknowledgment does not mean that the acknowledged creators endorse RapidQandA or the use of their work in any way.

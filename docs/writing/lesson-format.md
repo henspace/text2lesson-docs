@@ -47,7 +47,7 @@ x Prague
 & Paris is the capital of France.
 ```
 
-Text2Lesson allows you to enclose the _indicator_ in brackets, so
+RapidQandA allows you to enclose the _indicator_ in brackets, so
 the following would also work.
 
 ```
@@ -95,7 +95,7 @@ repeated up to three times. So this is also valid:
 
 But why would I want to do that?
 
-Text2Lesson allows you to use a simplified version of Markdown. This allows you
+RapidQandA allows you to use a simplified version of Markdown. This allows you
 to include fancy formatting by just using plain text. So when you create lessons
 you can include some formatting to improve the look of your lessons. If you do
 this, you might use an online Markdown editor. If you do, you might also find
@@ -131,7 +131,7 @@ x Prague
 Each problem must contain either an introduction or question element. It can of
 course contain both.
 
-**Text2Lesson** uses the following rules to detects new problem :
+**RapidQandA** uses the following rules to detects new problem :
 
 1. A new introduction element is identified. As a problem can only contain one
    introduction element, the application knows that another introduction must be
@@ -184,7 +184,7 @@ x 4
 ```
 
 The separator, which uses the underscore _indicator_, will tell
-**Text2Lesson** to create two problems.
+**RapidQandA** to create two problems.
 
 You might be wondering why it might be important to have an introduction on its
 own. That is because of the different problem types supported by the

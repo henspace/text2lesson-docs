@@ -11,9 +11,9 @@ Hopefully, you'll find creating lessons straightforward and won't need to visit 
 So you created some information that you want to appear as a slideshow. Unfortunately,
 it just appears as a static dialog box preceding the next question. What's wrong?
 
-If _Text2Lesson_ finds an introduction followed by a question, it assumes the
+If _RapidQandA_ finds an introduction followed by a question, it assumes the
 introduction is part of the question and so shows it in the dialog box. To tell
-_Text2Lesson_ that this is a separate problem and should be shown separately as
+_RapidQandA_ that this is a separate problem and should be shown separately as
 a slide show, you need to use the separator indicator.
 
 This example will treat the information `(i)` as part of the question `(?)` that
@@ -29,7 +29,7 @@ Here is another slide.
 x no
 ```
 
-However, in this example, we've added the separator `_____`. Now, _Text2Lesson_ will treat the information `(i)` as a separate problem and it **will** appear as a slideshow.
+However, in this example, we've added the separator `_____`. Now, _RapidQandA_ will treat the information `(i)` as a separate problem and it **will** appear as a slideshow.
 
 ```
 (i) This is my slideshow.
@@ -59,7 +59,7 @@ This won't:
 
 # One of my questions is missing
 
-This can happen if you forget to add an **i** or **?** indicator after a ****\_**** separator.
+This can happen if you forget to add an **i** or **?** indicator after a \***\*\_\*\*** separator.
 
 Imagine you type this:
 
@@ -74,7 +74,7 @@ x Paris
 x London
 ```
 
-When _Text2Lesson_ runs, it will see the separator and then look for the next introduction **i** or question **?** indicator. It will ignore everything else. In this example the first question it will find will be `What is the capital of France?` It will ignore the one about the capital of the UK as it wasn't flagged as a question.
+When _RapidQandA_ runs, it will see the separator and then look for the next introduction **i** or question **?** indicator. It will ignore everything else. In this example the first question it will find will be `What is the capital of France?` It will ignore the one about the capital of the UK as it wasn't flagged as a question.
 
 > <span style="font-size:2em;">⚠️</span> Make sure you don't forget your introduction or question indicators.
 
@@ -93,7 +93,7 @@ x London
 
 # It keeps crashing or won't start up
 
-Whoops! Sorry about that. It's possible the memory has become corrupt. _Text2Lesson_
+Whoops! Sorry about that. It's possible the memory has become corrupt. _RapidQandA_
 should be able to recover, but perhaps something's been missed &mdash; blame the
 programmer.
 

@@ -87,4 +87,4 @@ That's the end of the learning trail, but there's still more to uncover.
 
 At the moment, we've kept everything fairly simple — we've not looked at adding
 bullets or images for example. To enhance your lessons, take a look at the [Contents](../contents.md)
-for more advice about getting the most out of _Text2Lesson_.
+for more advice about getting the most out of _RapidQandA_.

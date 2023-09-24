@@ -4,10 +4,10 @@ layout: main
 
 # ✒️ Formatting text
 
-_Text2Lesson_ allows you to add some formatting elements to your text. This can be used
+_RapidQandA_ allows you to add some formatting elements to your text. This can be used
 to create headings or make some items bold. The format is based on [Markdown](https://daringfireball.net/projects/markdown/),
 but there are some limitations. There are also some extensions which are tailored for
-use with _Text2Lesson_
+use with _RapidQandA_
 
 # Headings
 
@@ -90,7 +90,7 @@ The following size tags are recognised: **big**, **bigger**, **biggest**, **mass
 
 # Superscript and subscript
 
-_Text2Lesson_ does not normally allow you to include HTML in your lessons. There
+_RapidQandA_ does not normally allow you to include HTML in your lessons. There
 are however a few exceptions. Superscript and subscripts tags are a couple of exceptions.
 
 ```
@@ -130,31 +130,31 @@ becomes:
 ## Limitation
 
 Standard [Markdown](https://daringfireball.net/projects/markdown/) allows complex block
-elements to be included in lists; _Text2Lesson_ does not! Only simple lists are supported: blockquotes, code blocks and other block elements cannot be included.
+elements to be included in lists; _RapidQandA_ does not! Only simple lists are supported: blockquotes, code blocks and other block elements cannot be included.
 
 # Links
 
 The basic format for adding links is very simple and just comprises the text you want displayed in square brackets immediately followed by the url or web address in parentheses. So
 
 ```
-[Visit Text2Lesson](https://text2lesson.com)
+[Visit RapidQandA](https://text2lesson.com)
 ```
 
-becomes [Visit Text2Lesson](https://text2lesson.com)
+becomes [Visit RapidQandA](https://text2lesson.com)
 
 You can add a title which will appear when you hover your mouse over the link. Just follow the url with a space and then the title in double quotation marks, like this:
 
 ```
-[Visit Text2Lesson](https://text2lesson.com "this is the title")
+[Visit RapidQandA](https://text2lesson.com "this is the title")
 ```
 
-which becomes [Visit Text2Lesson](https://text2lesson.com "this is the title")
+which becomes [Visit RapidQandA](https://text2lesson.com "this is the title")
 
 Note that the url must begin with http or https; no other protocols are supported.
 
 ## Limitation
 
-Standard [Markdown](https://daringfireball.net/projects/markdown/) allows reference links to be created; _Text2Lesson_ does not!
+Standard [Markdown](https://daringfireball.net/projects/markdown/) allows reference links to be created; _RapidQandA_ does not!
 
 # Automatic links
 
@@ -170,7 +170,7 @@ which becomes <https://text2lesson.com>
 
 Automatic links in standard [Markdown](https://daringfireball.net/projects/markdown/) are created by enclosing the link between `<` and
 `>` characters. As a byproduct of the fact that, unlike Markdown,
-_Text2Lesson_ escapes most HTML, if you were to enclose text between `&lt;` and
+_RapidQandA_ escapes most HTML, if you were to enclose text between `&lt;` and
 `>` text, that would also be interpreted as an automatic link. You can prevent
 this by using `&gt;` for the closing greater than character. This behaviour is
 summarised below:
@@ -191,7 +191,7 @@ becomes <fictitious.person@example.com>
 
 # Paragraphs
 
-Even though you might write your text on separate lines, _Text2Lesson_ normally
+Even though you might write your text on separate lines, _RapidQandA_ normally
 joins lines together. If you want text to appear as a new paragraph, you should include
 a blank line.
 
@@ -211,7 +211,7 @@ becomes
 > But this is separate because
 > of the blank line above.
 
-_Text2Lesson_ does not normally allow you to include HTML in your lessons. However,
+_RapidQandA_ does not normally allow you to include HTML in your lessons. However,
 **<br>** is an exception. You can use it to force a new line.
 
 ```
@@ -245,7 +245,7 @@ becomes:
 
 ---
 
-In conventional Markdown you can also use underscores, but these have special meaning in _Text2Lesson_ and are used to separate problems.
+In conventional Markdown you can also use underscores, but these have special meaning in _RapidQandA_ and are used to separate problems.
 
 # Blockquotes
 
@@ -266,7 +266,7 @@ becomes
 ## Limitation
 
 Standard [Markdown](https://daringfireball.net/projects/markdown/) allows nested
-blockquotes: _Text2Lesson_ does not!
+blockquotes: _RapidQandA_ does not!
 
 # Code blocks
 
@@ -287,11 +287,11 @@ becomes
 
 # Maths or math if you prefer
 
-_Text2Lesson_ includes some formatting tools to make maths equations simpler. This is a complex topic, so check out [Adding maths](add-maths.md) for details.
+_RapidQandA_ includes some formatting tools to make maths equations simpler. This is a complex topic, so check out [Adding maths](add-maths.md) for details.
 
 # Embedding HTML
 
-_Text2Lesson_ does not normally allow HTML to be included in text; however, there are some exceptions.
+_RapidQandA_ does not normally allow HTML to be included in text; however, there are some exceptions.
 
 - `<br>`: line breaks
 - `<sup></sup><sub></sub>`: subscript and superscript

@@ -4,8 +4,8 @@ layout: main
 
 # 🛈 Online Help
 
-_Text2Lesson_ is an application that has been designed to take plain text files
-and convert them into lessons. And when we talk about lessons, we also mean
+_RapidQandA_ is an application that has been designed to take plain text files
+and convert them into quizzes and lessons. When we talk about lessons, we also mean
 quizzes that can accompany the information being taught.
 
 It's fast, it's simple, it's free, and you don't need to enter any personal

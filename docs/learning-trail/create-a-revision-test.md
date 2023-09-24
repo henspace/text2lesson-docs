@@ -5,11 +5,11 @@ layout: main
 # ✏️ Create my own personal revision lesson
 
 This is part of the [learning trail](./learning-trail.md). In this step, we're not going to learn how
-_Text2Lesson_ works, we're just going to jump in a create a revision lesson.
+_RapidQandA_ works, we're just going to jump in a create a revision lesson.
 
 ## Step 1: let's create a lesson ready for editing
 
-1. If you haven't started _Text2Lesson_, you will need to <a href="https://henspace.github.io/text2lesson/index.html" target="_blank">launch</a> it first.
+1. If you haven't started _RapidQandA_, you will need to <a href="https://henspace.github.io/text2lesson/index.html" target="_blank">launch</a> it first.
 1. From the home page, select **<i class="fa-solid fa-building-columns"></i>&nbsp;Open&nbsp;local&nbsp;library**.
 1. If you've just started, you will have four slots. Click on the first empty one.
    It will be labelled **Empty:**.

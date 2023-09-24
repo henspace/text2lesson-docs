@@ -4,7 +4,7 @@ layout: main
 
 # 🧮 Adding maths, or if you prefer, math
 
-_Text2Lesson_ provides two methods of adding maths:
+_RapidQandA_ provides two methods of adding maths:
 
 - [AsciiMath](./asciimath.md): a way of creating mathematical expressions by just using standard text characters.
 - [MathML](./maths-ml.md): a complex markup language. It's verbose and best created using an authoring tool.

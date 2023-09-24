@@ -4,12 +4,12 @@ layout: main
 
 # 📄 Example lessons
 
-The easiest way to learn _Text2Lesson_ is to look at some examples. All of
-these are also included in the _Example quizzes_ book in _Text2Lesson_'s remote
+The easiest way to learn _RapidQandA_ is to look at some examples. All of
+these are also included in the _Example quizzes_ book in _RapidQandA_'s remote
 library.
 
 Each quiz introduces a new feature, so take a look at each one. Play
-the lesson in _Text2Lesson_ first, and then take a look at the text that was used
+the lesson in _RapidQandA_ first, and then take a look at the text that was used
 to create the lesson.
 
 # Capital cities of Europe: multiple choice questions
@@ -17,7 +17,7 @@ to create the lesson.
 This is the simplest lesson. All it includes is a set of multiple choice questions
 with a single answer to each.
 
-1. Play the lesson in _Text2Lesson_.
+1. Play the lesson in _RapidQandA_.
 1. Take a look at the [Capital cities of Europe](examples/capital_cities_of_Europe.txt) text.
 
 Here is a part of that lesson:
@@ -48,7 +48,7 @@ Here is another simple lesson. Again, it just comprises a number of questions.
 The only difference is that the questions have more than one answer starting with an
 equals sign. That's because there's more than one possible right answer.
 
-1. Play the lesson in _Text2Lesson_.
+1. Play the lesson in _RapidQandA_.
 1. Take a look at the [Famous authors](examples/famous_authors.txt) text.
 
 Again, here is part of that lesson.
@@ -70,7 +70,7 @@ like this **(i)**. They'll both work.
 
 In this lesson, each question has some introductory text.
 
-1. Play the lesson in _Text2Lesson_.
+1. Play the lesson in _RapidQandA_.
 1. Take a look at the [Animals](examples/animals.txt) text.
 
 Here is an extract showing the introduction:

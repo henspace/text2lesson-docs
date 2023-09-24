@@ -2,24 +2,25 @@
 layout: main
 ---
 
-# 🛈 About Text2Lesson
+# 🛈 About RapidQandA
 
-_Text2Lesson_ is an application that has been designed to take plain text files
-and convert them into lessons.
+_RapidQandA_ is an application that has been designed to take plain text files
+and convert them into quizzes and lessons. We tend to refer to the resulting files as lessons rather than
+quizzes and they can be accompanied by lots of additional information to help students understand a topic.
 
-# 🔎 So, where is Text2Lesson?
+# 🔎 So, where is RapidQandA?
 
-If you've come here from _Text2Lesson's_ options, you probably know where to
+If you've come here from _RapidQandA's_ options, you probably know where to
 find it.
 
 If you've stumbled across this information while browsing and want to give it a
-go, [launch Text2Lesson](https://henspace.github.io/text2lesson/index.html)
+go, [launch RapidQandA](https://henspace.github.io/text2lesson/index.html)
 
-# 🧑 Who's behind Text2Lesson?
+# 🧑 Who's behind RapidQandA?
 
-_Text2Lesson_ is an open source project written and created by
+_RapidQandA_ is an open source project written and created by
 [Henspace](https://github.com/henspace) and hosted on [GitHub](https://github.com).
-The source code is available in the [text2lesson repository](https://github.com/henspace/text2lesson).
+The source code is available in the [RapidQandA repository](https://github.com/henspace/text2lesson).
 
 # 📜 Term and Conditions
 
@@ -37,5 +38,5 @@ Fonts for maths use the [Stix Two Math fonts](https://github.com/stipub/stixfont
 Styling for MathML, if not supported by the browser, has been made possible using
 a modified version of [mathml.css](https://github.com/fred-wang/mathml.css).
 
-Please note that any acknowledgment does not mean that the acknowledged creators endorse _Text2Lesson_ or the use of their work in
+Please note that any acknowledgment does not mean that the acknowledged creators endorse _RapidQandA_ or the use of their work in
 any way.

@@ -4,10 +4,10 @@ layout: main
 
 # 🖼️ Adding images
 
-> <span style="font-size:2em;">💡</span> Tip: [Using Wikimedia Commons](./using-wikimedia-commons.md) is the easiest and recommended way for adding images to _Text2Lesson_.
+> <span style="font-size:2em;">💡</span> Tip: [Using Wikimedia Commons](./using-wikimedia-commons.md) is the easiest and recommended way for adding images to _RapidQandA_.
 
 In any text based programs, adding images can always be a bit of a problem. Let's
-see how it's done in _Text2Lesson_. The basic format is very simple:
+see how it's done in _RapidQandA_. The basic format is very simple:
 
 ```
 ![alternative text](url-of-the-image)
@@ -18,7 +18,7 @@ see how it's done in _Text2Lesson_. The basic format is very simple:
   impairment, as this text may be spoken by screen readers.
 - The **url-of-the-image** is the url (web address) of the image.
 
-So here is the text that can be used to show the _Text2Lesson_ logo.
+So here is the text that can be used to show the _RapidQandA_ logo.
 
 ```
 ![Small logo showing T2L following by bulleted lines](https://henspace.github.io/text2lesson-docs/assets/images/logo/bordered_logo_128.png)
@@ -33,9 +33,9 @@ a full image definition would look like this:
 ```
 
 Now you may have realised an issue: where are the images stored? They have to be
-available online to use them in _Text2Lesson_. Because _Text2Lesson_ is inherently
+available online to use them in _RapidQandA_. Because _RapidQandA_ is inherently
 intended for educational purposes, the ideal place to get or store your images is
-[Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page). _Text2Lesson_ has some specific features to make dealing with images
+[Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page). _RapidQandA_ has some specific features to make dealing with images
 from [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page) even easier. Check out [Using Wikimedia Commons](using-wikimedia-commons.md)
 for more details.
 
@@ -52,8 +52,8 @@ the left of the page. You do this by adding **<**, which sort of points to the l
 
 If you use any images in your lessons, you obviously need to make sure you have
 permission to use and distribute the images. You will often find that for
-free images, you need to provide attribution. _Text2Lesson_ allows you to add
-attribution details to the title. Note that _Text2Lesson_ can produce the attributions
+free images, you need to provide attribution. _RapidQandA_ allows you to add
+attribution details to the title. Note that _RapidQandA_ can produce the attributions
 automatically for images if you [use Wikimedia Commons](using-wikimedia-commons.md).
 
 The extended title contains a number of elements

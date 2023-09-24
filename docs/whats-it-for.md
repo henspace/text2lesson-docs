@@ -4,11 +4,11 @@ layout: main
 
 # ❔ What's it for?
 
-So what's the point of _Text2Lesson_ then? There are loads of great online quiz
+So what's the point of _RapidQandA_ then? There are loads of great online quiz
 generators out there: [Kahoot](https://kahoot.com/) and [Quizizz](https://quizizz.com/)
 for example. Surely, we don't need another one?
 
-_Text2Lesson_ is different. It has three distinct features:
+_RapidQandA_ is different. It has three distinct features:
 
 - **Speed**: quickly writing down your lesson in plain text is faster than clicking
   in a fancy UI. It might not seem it at first, but once you've got to grips with
@@ -20,7 +20,7 @@ _Text2Lesson_ is different. It has three distinct features:
 
 # What can I use it for?
 
-These are probably the three main uses of _Text2Lesson_:
+These are probably the three main uses of _RapidQandA_:
 
 - to play lessons that have been created by someone else or from the built-in
   library. The built-in library is under construction at the moment, so you'll
@@ -31,7 +31,7 @@ These are probably the three main uses of _Text2Lesson_:
 # Why would I want to play someone else's lesson?
 
 Perhaps it was sent to you as an assignment by your teacher. Perhaps,
-something in _Text2Lesson_'s library (when it arrives 😉) interests you.
+something in _RapidQandA_'s library (when it arrives 😉) interests you.
 
 # Why would I want to use it to create a lesson for someone else?
 

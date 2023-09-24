@@ -45,6 +45,6 @@ Take a look at this example:
 x = (-b +- sqrt(b^2 - 4ac))/(2a)
 ```
 
-You could probably see what that equation was going to look like. Here it is rendered in _Text2Lesson_:
+You could probably see what that equation was going to look like. Here it is rendered in _RapidQandA_:
 
 ![equation for solution of quadratic equation](../images/quadratic.png)

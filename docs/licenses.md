@@ -4,7 +4,7 @@ layout: main
 
 # 📜 License details
 
-_Text2Lesson_ is licensed under the [GPL-3.0 License](https://www.gnu.org/licenses/gpl-3.0.en.html#license-text).
+_RapidQandA_ is licensed under the [GPL-3.0 License](https://www.gnu.org/licenses/gpl-3.0.en.html#license-text).
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
@@ -21,10 +21,10 @@ along with this program. If not, see <https://www.gnu.org/licenses/>.
 
 # Additional components
 
-Additional components used by _Text2Lesson_ are distributed under separate licenses. See below for
+Additional components used by _RapidQandA_ are distributed under separate licenses. See below for
 details:
 
-- **Service worker**: the service worker used by _Text2Lesson_ is generated
+- **Service worker**: the service worker used by _RapidQandA_ is generated
   using the  
   [GoogleChrome/workbox project](https://github.com/GoogleChrome/workbox). The
   generated service worker, _sw.js_, is released under the terms and conditions
@@ -35,7 +35,7 @@ details:
   and conditions of the
   [Font Awesome Free License](https://fontawesome.com/license/free) (Icons: CC
   BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License).
-- **mathml.css**: the mathml.css file provided with _Text2Lesson_ is a modified version of original
+- **mathml.css**: the mathml.css file provided with _RapidQandA_ is a modified version of original
   [mathml.css](https://github.com/fred-wang/mathml.css). This is used under the
   terms of the [Mozilla Public License, v. 2.0](http://mozilla.org/MPL/2.0/).
   The original code has been modified to include the `div .mathml-fallback-test`

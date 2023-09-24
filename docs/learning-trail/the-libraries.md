@@ -4,7 +4,7 @@ layout: main
 
 # 🏛️ The libraries
 
-When you first launch _Text2Lesson_, you're presented with three libraries.
+When you first launch _RapidQandA_, you're presented with three libraries.
 Lessons can come from multiple places and these are the three main places you can
 find them:
 
@@ -43,7 +43,7 @@ So to play a lesson from the remote library, you follow four simple steps:
 1. Pick a chapter in the book.
 1. Finally, pick a lesson from the chapter and play it.
 
-_Text2Lesson_ will automatically skip some of those steps if there is only one
+_RapidQandA_ will automatically skip some of those steps if there is only one
 option available.
 
 The local library and file system are not broken down into books, chapters and lessons.

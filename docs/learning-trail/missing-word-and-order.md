@@ -5,7 +5,7 @@ layout: main
 # 🕵️ Missing word and order problems
 
 So far we've looked at multiple choice questions and slideshow presentations.
-There are two more types of problems that _Text2Lesson_ can handle:
+There are two more types of problems that _RapidQandA_ can handle:
 
 - **Missing word problem**: in this problem, words are missing from the question, and
   the person playing the lesson has to select the missing word from a number of options.

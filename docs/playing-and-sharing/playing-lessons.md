@@ -73,6 +73,6 @@ system:
 
 ## Playing an autorun file
 
-An [autorun file](../autorun-files.md) is a self-running file that has been exported from _Text2Lesson_
+An [autorun file](../autorun-files.md) is a self-running file that has been exported from _RapidQandA_
 to make it easier to play lessons. To play this lesson, simply open it in your
 browser. The lesson will start playing automatically.

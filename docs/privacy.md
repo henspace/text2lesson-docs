@@ -4,7 +4,7 @@ layout: main
 
 # 🤐 Privacy policy
 
-_Text2Lesson_ has been designed to run on your device without the need to
+_RapidQandA_ has been designed to run on your device without the need to
 create user accounts or provide any personal data. This document describes what
 data are stored by the application.
 
@@ -66,5 +66,5 @@ support these features, so some options may not be available to you.
 
 # Deleting stored data
 
-No _Text2Lesson_ data are stored on the server; everything is stored on your local device. If
+No _RapidQandA_ data are stored on the server; everything is stored on your local device. If
 you want to remove all stored data from your device, see the [delete everything forever](./deletion-tool.md) page for details.

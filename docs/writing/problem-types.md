@@ -4,7 +4,7 @@ layout: main
 
 # ❔ Problem types
 
-_Text2Lesson_ supports five problem types. The type is automatically derived
+_RapidQandA_ supports five problem types. The type is automatically derived
 from the way the problem is defined:
 
 - **simple**: a multiple choice question with just one correct answer.

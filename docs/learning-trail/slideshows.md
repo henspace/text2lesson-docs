@@ -40,14 +40,14 @@ x Samango monkey
 x Black and white colobus monkey
 ```
 
-In the example above, we have two **(i)** indicators. Whenever _Text2Lesson_ sees
+In the example above, we have two **(i)** indicators. Whenever _RapidQandA_ sees
 a new introduction indicator, it knows it is the start of a new problem. So here
 we have defined two problems:
 
 1. The first just has an introduction talking about paragraphs, but no question.
 1. The second has its own introduction and a question about monkeys.
 
-So what does _Text2Lesson_ do?
+So what does _RapidQandA_ do?
 
 Because the first introduction has no question, it becomes a slideshow.
 

@@ -84,7 +84,7 @@ exception for the **AUTHOR** key which is described below.
 
 # Author and licensing information
 
-The following metadata keys have special meaning within _Text2Lesson_:
+The following metadata keys have special meaning within _RapidQandA_:
 
 - **TITLE**: the lesson title
 - **AUTHOR**: the lesson's author. This can contain some limited formatting. It is
