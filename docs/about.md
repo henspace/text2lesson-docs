@@ -40,3 +40,12 @@ a modified version of [mathml.css](https://github.com/fred-wang/mathml.css).
 
 Please note that any acknowledgment does not mean that the acknowledged creators endorse _RapidQandA_ or the use of their work in
 any way.
+
+---
+
+# 🏷️ What's in a name?
+
+If you came across this project early on, you may have seen it referred to as _Text2Lesson_.
+Great name, but it's also used by some other products. To prevent any confusion, the application
+was rebranded as _RapidQandA_. Vestiges of the old name exist in some web addresses, so don't let
+that worry you.
