@@ -62,9 +62,17 @@ _RapidQandA_ also provides you with the option to share lessons you create. _Rap
 
 > <span style="font-style: normal; font-size:2em;">⚠️</span> As a general rule, don't include personal information in your lessons. The only exception might be your name as the author of a lesson if you want to make clear your ownership of copyright.
 
+# Contact form
+
+If you contact me using the contact form, you will be providing information using a form powered by [Google forms](https://www.google.com/forms/about/?utm_source=product&utm_medium=forms_logo&utm_campaign=forms). Google's use of the data is governed by [their privacy policy](https://policies.google.com/privacy).
+
+You do not need to provide any contact details when using the form. If you do, your contact details will only be used as required to respond to any questions raised. Any personal data will be deleted once the issue or feedback has been processed and the data are no longer required for dealing with the initial contact or for legal purposes.
+
+If the contact is used to report a bug or request changes, a summary of the bug or request may be created and logged in the issues log for the software repository. Any personal information provided in the original contact will be removed before logging.
+
 # Third party privacy policies
 
-- The application is hosted by GitHub. As is common for most web servers, GitHub
+- **GitHub**: the application is hosted by GitHub. As is common for most web servers, GitHub
   logs and stores your IP address for security purposes. For more information
   about GitHub's security practices, refer to the
   [GitHub Privacy Statement](https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement).
