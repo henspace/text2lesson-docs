@@ -37,12 +37,11 @@ faster on subsequent uses and reduces data transmission.
 # Sharing results
 
 Your scores for lessons are never stored on your device or transmitted to
-the server unless you explicitly choose to share the results. If you do share
-the results, only the lesson identification and scores are shared. No
+the server. If you do explicitly choose to share the results, only the lesson identification and scores are shared. No
 personal information is included in the shared results.
 
-What happens with the results data if you choose to share it will depend on the
-service you choose. You will need to refer to the selected service's privacy
+What actually happens with the results data if you choose to share it will depend on the
+service you choose. It isn't transmitted to _RapidQandA_; it just get shared via the application you select. For example, you might choose to share it via WhatsApp&#8482; or email. You will need to refer to the selected service's privacy
 policy for information on how your results will subsequently be handled.
 
 The following mechanisms for sharing results are provided. Not all devices
@@ -56,6 +55,12 @@ support these features, so some options may not be available to you.
   This allows the application to share results using the sharing options provided
   by your device's operating system. The privacy of your data will depend upon
   the privacy policies of the option you select.
+
+# Sharing lessons
+
+_RapidQandA_ also provides you with the option to share lessons you create. _RapidQandA_ doesn't include any personal information in the lessons. Obviously, if you include personal information in a lesson you create, that will be shared if you share the lesson.
+
+> <span style="font-size:2em;">⚠️</span> As a general rule, don't include personal information in your lessons. The only exception might be your name as the author of a lesson if you want to make clear your ownership of copyright.
 
 # Third party privacy policies
 

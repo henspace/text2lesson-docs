@@ -7,7 +7,7 @@ layout: main
 <img alt="ABC characters followed by arrow leading to question marks that fade away" src="images/banner.png" style="display:block">
 _RapidQandA_ is an application that has been designed to take plain text files
 and convert them into quizzes and lessons. We tend to refer to the resulting files as lessons rather than 
-quizzes and they can be accompanied by lots of additional information to help students understand a topic.
+quizzes as they can be accompanied by lots of additional information to help students understand a topic.
 
 It's fast, it's simple, it's free, and you don't need to enter any personal
 information or create any accounts.
