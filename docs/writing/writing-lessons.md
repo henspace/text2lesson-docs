@@ -2,7 +2,7 @@
 layout: main
 ---
 
-> <span style="font-size:2em;">⚠️</span> As a general rule, don't include personal information in your lessons. The only exception might be your name as the author of a lesson if you want to make clear your ownership of copyright. This is done using [metadata](../writing/metadata.md).
+> <span style="font-style: normal; font-size:2em;">⚠️</span> As a general rule, don't include personal information in your lessons. The only exception might be your name as the author of a lesson if you want to make clear your ownership of copyright. This is done using [metadata](../writing/metadata.md).
 
 # 📝 Writing lessons
 

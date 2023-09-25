@@ -40,7 +40,7 @@ into a set of problems or questions by using special indicators.
 The parentheses around the question mark are optional, but they normally make it
 easier to identify the question.
 
-> <span style="font-size:2em;">⚠️</span> Make sure you have a space or right-hand bracket after the indicator, otherwise it won't be recognised as such.
+> <span style="font-style: normal; font-size:2em;">⚠️</span> Make sure you have a space or right-hand bracket after the indicator, otherwise it won't be recognised as such.
 
 # Famous authors: multiple choice question with more than one possible answer
 

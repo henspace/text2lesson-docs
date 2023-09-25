@@ -103,4 +103,4 @@ The following license names are recognised and will be automatically converted t
 - **CC0**: [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/)
 - **CC BY-xx**: [Creative Commons licences](https://creativecommons.org/licenses/). CC BY-SA, CC BY-NC, CC BY-NC-SA, CC BY-NC-ND licences are recognised. They can be followed by a version, e.g `CC BY-SA 2.5`. The version defaults to 4.0 if omitted.
 
-> <span style="font-size:2em;">⚠️</span> Remember, if you include your name using the **AUTHOR** metatag and then share the lesson, you are of course sharing your name. Always think about what you share.
+> <span style="font-style: normal; font-size:2em;">⚠️</span> Remember, if you include your name using the **AUTHOR** metatag and then share the lesson, you are of course sharing your name. Always think about what you share.

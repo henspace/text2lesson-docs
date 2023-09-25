@@ -60,7 +60,7 @@ support these features, so some options may not be available to you.
 
 _RapidQandA_ also provides you with the option to share lessons you create. _RapidQandA_ doesn't include any personal information in the lessons. Obviously, if you include personal information in a lesson you create, that will be shared if you share the lesson.
 
-> <span style="font-size:2em;">⚠️</span> As a general rule, don't include personal information in your lessons. The only exception might be your name as the author of a lesson if you want to make clear your ownership of copyright.
+> <span style="font-style: normal; font-size:2em;">⚠️</span> As a general rule, don't include personal information in your lessons. The only exception might be your name as the author of a lesson if you want to make clear your ownership of copyright.
 
 # Third party privacy policies
 

@@ -4,7 +4,7 @@ layout: main
 
 # 🖼️ Adding images
 
-> <span style="font-size:2em;">💡</span> Tip: [Using Wikimedia Commons](./using-wikimedia-commons.md) is the easiest and recommended way for adding images to _RapidQandA_.
+> <span style="font-style: normal; font-size:2em;">💡</span> Tip: [Using Wikimedia Commons](./using-wikimedia-commons.md) is the easiest and recommended way for adding images to _RapidQandA_.
 
 In any text based programs, adding images can always be a bit of a problem. Let's
 see how it's done in _RapidQandA_. The basic format is very simple:

@@ -76,7 +76,7 @@ x London
 
 When _RapidQandA_ runs, it will see the separator and then look for the next introduction **i** or question **?** indicator. It will ignore everything else. In this example the first question it will find will be `What is the capital of France?` It will ignore the one about the capital of the UK as it wasn't flagged as a question.
 
-> <span style="font-size:2em;">⚠️</span> Make sure you don't forget your introduction or question indicators.
+> <span style="font-style: normal; font-size:2em;">⚠️</span> Make sure you don't forget your introduction or question indicators.
 
 This is what the lesson should have looked like:
 
