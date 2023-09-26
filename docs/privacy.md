@@ -62,13 +62,15 @@ _RapidQandA_ also provides you with the option to share lessons you create. _Rap
 
 > <span style="font-style: normal; font-size:2em;">⚠️</span> As a general rule, don't include personal information in your lessons. The only exception might be your name as the author of a lesson if you want to make clear your ownership of copyright.
 
-# Contact form
+# Communications
+
+If you contact me, either by email, contact forms or social media, to enquire about a product, site or for any other purposes, your contact details and communications may be retained for the legitimate interests of processing your enquiry, dispute resolution or legal defence. They will not be sold, used for any purpose other than responding to the enquiry, or passed on to any third party unless required by law or for legal defence. They will not be used for marketing purposes or any other purposes that would not be reasonably expected based upon the nature of the enquiry and subsequent communications.
 
 If you contact me using the contact form, you will be providing information using a form powered by [Google forms](https://www.google.com/forms/about/?utm_source=product&utm_medium=forms_logo&utm_campaign=forms). Google's use of the data is governed by [their privacy policy](https://policies.google.com/privacy).
 
 You do not need to provide any contact details when using the form. If you do, your contact details will only be used as required to respond to any questions raised. Any personal data will be deleted once the issue or feedback has been processed and the data are no longer required for dealing with the initial contact or for legal purposes.
 
-If the contact is used to report a bug or request changes, a summary of the bug or request may be created and logged in the issues log for the software repository. Any personal information provided in the original contact will be removed before logging.
+If contact is made to report a bug or request changes, a summary of the bug or request may be created and logged in the issues log for the software repository. Any personal information provided in the original contact will be removed before logging.
 
 # Third party privacy policies
 
