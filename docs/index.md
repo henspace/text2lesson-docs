@@ -5,9 +5,17 @@ layout: main
 # 🏠 Welcome to RapidQandA
 
 <img alt="ABC characters followed by arrow leading to question marks that fade away" src="images/banner.png" style="display:block">
+
 _RapidQandA_ is an application that has been designed to take plain text files
-and convert them into quizzes and lessons. We tend to refer to the resulting files as lessons rather than 
+and convert them into quizzes and lessons. We tend to refer to the resulting files as lessons rather than
 quizzes as they can be accompanied by lots of additional information to help students understand a topic.
+
+- <span style="display: inline-block; font-size:1.5em; width:3.2em;">✔️💨</span>**Fast**
+- <span style="display: inline-block; font-size:1.5em; width:3.2em;">✔️🎁</span>**Shareable**
+- <span style="display: inline-block; font-size:1.5em; width:3.2em;">✔️🖨️</span>**Printer friendly**
+- <span style="display: inline-block; font-size:1.5em; width:3.2em;">❌💲</span>**Free**
+- <span style="display: inline-block; font-size:1.5em; width:3.2em;">❌🖼️</span>**Advert free**
+- <span style="display: inline-block; font-size:1.5em; width:3.2em;">❌👤</span>**Private &mdash; no accounts or logins required.**
 
 It's fast, it's simple, it's free, and you don't need to enter any personal
 information or create any accounts.
@@ -15,7 +23,7 @@ information or create any accounts.
 If you teach, you can even create files containing your lessons and quizzes and
 email them to your students. They can just open the file and play the lesson.
 There's no need for them to create an account, log in, install any software, or
-do anything else — simple.
+do anything else — simple. If you prefer paper, you can even print your lessons and quizzes.
 
 # Let's give it a go
 
