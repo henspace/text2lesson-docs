@@ -41,3 +41,7 @@ details:
   The original code has been modified to include the `div .mathml-fallback-test`
   selector.
 - **Stix Two Math fonts**: the fonts used for maths are the [Stix Two Math fonts](https://github.com/stipub/stixfonts). These are used under the terms of the [SIL Open Font License 1.1](http://scripts.sil.org/OFL).
+
+# Disclaimer
+
+These details shall be governed by and construed in accordance with the laws of England and Wales. Any dispute shall be subject to the exclusive jurisdiction of the courts of England and Wales.
