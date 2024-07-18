@@ -137,18 +137,18 @@ elements to be included in lists; _RapidQandA_ does not! Only simple lists are s
 The basic format for adding links is very simple and just comprises the text you want displayed in square brackets immediately followed by the url or web address in parentheses. So
 
 ```
-[Visit RapidQandA](https://text2lesson.com)
+[Visit Henspace Home](https://henspace.com)
 ```
 
-becomes [Visit RapidQandA](https://text2lesson.com)
+becomes [Visit Henspace Home](https://henspace.com)
 
 You can add a title which will appear when you hover your mouse over the link. Just follow the url with a space and then the title in double quotation marks, like this:
 
 ```
-[Visit RapidQandA](https://text2lesson.com "this is the title")
+[Visit Henspace Home](https://henspace.com "this is the title")
 ```
 
-which becomes [Visit RapidQandA](https://text2lesson.com "this is the title")
+which becomes [Visit Henspace Home](https://henspace.com "this is the title")
 
 Note that the url must begin with http or https; no other protocols are supported.
 
@@ -161,10 +161,10 @@ Standard [Markdown](https://daringfireball.net/projects/markdown/) allows refere
 As a quicker way of adding links, you can just add the url between less than and greater than characters like this:
 
 ```
-<https://text2lesson.com>
+<https://henspace.com>
 ```
 
-which becomes <https://text2lesson.com>
+which becomes <https://henspace.com>
 
 ## Deviation from standard Markdown
 
