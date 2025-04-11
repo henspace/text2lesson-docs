@@ -2,6 +2,8 @@
 layout: main
 ---
 
+> <span style="font-style: normal; font-size:2em;">⚠️</span> RapidQandA is no longer under development. Feel free to use the files and play with the system, but there will be no more updates or bug fixes.
+
 # 📜 License details
 
 _RapidQandA_ is licensed under the [GPL-3.0 License](https://www.gnu.org/licenses/gpl-3.0.en.html#license-text).

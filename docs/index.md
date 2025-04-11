@@ -6,6 +6,8 @@ layout: main
 
 <img alt="ABC characters followed by arrow leading to question marks that fade away" src="images/banner.png" style="display:block">
 
+> <span style="font-style: normal; font-size:2em;">⚠️</span> RapidQandA is no longer under development. Feel free to use the files and play with the system, but there will be no more updates or bug fixes.
+
 _RapidQandA_ is an application that has been designed to take plain text files
 and convert them into quizzes and lessons. We tend to refer to the resulting files as lessons rather than
 quizzes as they can be accompanied by lots of additional information to help students understand a topic.
